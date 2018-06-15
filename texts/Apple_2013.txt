@@ -1,0 +1,720 @@
+now this is why we getso excited when 
+we're working  on a new version of iOS 
+because we know that we can positively 
+affect millions of developers and 
+hundreds of millions of users and that 
+isexactly what we've been up  to the 
+team at Apple has beenworking 
+incredibly hard  on the latest version of 
+iOS and today it's a great thrill that I 
+announce  iOS 7 
+iOS 7 is the biggest change to iOS since 
+the introduction of iPhone it's packed 
+with amazing new features and a stunning 
+new user interface we prepared a video 
+to show you our thinking behind the
+design and I'd like to run  it for you 
+now
+we have always thoughtof  design as 
+being so much more than just the way 
+something looks it's the whole thing the 
+way something actually works on so many 
+different levels 
+ultimately of course design defines so 
+much of our experience
+I think there is a profound and enduring 
+beauty in simplicity in clarity in 
+efficiency true simplicity is derived 
+from so much more than justthe absence 
+of clutterand  ornamentation it's about 
+bringing order to complexity
+iOS 7 is a clear representation of these 
+goals it has a whole new structure that 
+is coherentand it is applied across the 
+entire system
+we'veconsidered  the tiniest details 
+like refining the typographyto much 
+largerones  by redesigning all the icons 
+and developing a grid system allowed us 
+toachieve a much more harmonious 
+relationship between individual elements
+we've also incorporated a whole new 
+palette of colors 
+distinct functional layers help 
+establish hierarchy and order and the 
+use of translucency gives you a  sense of 
+your context these plains  combined with 
+new approaches to animation and motion
+create a sense of depth and vitality 
+the iPhone responding to your movements 
+drives the parallax to create a whole 
+new experience of depth in many ways 
+we've tried to create an interface that 
+is unobtrusive and deferential one where 
+the design recedes and in doing so 
+actually elevates your content even the 
+simple actof changing your wallpaper 
+has a very noticeable effect on the way 
+your iPhone looks and feels across the 
+entire system
+while ios7 is completely new it was 
+importantto us to make  it instantly 
+familiar 
+we wantedto  take an experience that 
+people know very well  and actually add 
+to it to  make it more useful  to make it 
+moreenjoyable 
+to createit we brought together a broad 
+range of expertise from design to
+engineering  with what we've been able to 
+achieve togetherwe see  ios7 as defining 
+an important new direction and in many 
+ways  the beginning 
+you are going to absolutelylove ios7 
+this thank you this major effort this 
+major effortis only possible  because of 
+the incredible collaboration between 
+Johnny and his amazing design team and 
+Craig and his incredible engineering 
+team without further ado I'd like to 
+invite Craig back up to take you through 
+iOS 7the biggest change to iOS since 
+the iPhone 
+well on behalf of all of the engineers 
+and designers who worked so hard to make 
+today a realityI'm absolutely thrilled 
+to have this opportunity to show you 
+iOS 7 let's take a look it's 
+unbelievable it's just gorgeous 
+from thetypography on this lock screen 
+to the vitality of the background of an 
+animation to the home screen with these 
+icons looks so great it just looked 
+fantastic 
+and you know a lot of us have our own 
+wallpaper you know we like pictures of 
+our family there and now that liveliness 
+actually carries through to the  home 
+screen because as you move the device in 
+your hand it actually tracks your motion 
+and as parallax thix but you can see 
+behind the icons it's really incredible 
+and it carries over across the  system 
+this liveliness let me just take a look
+at somethinglike  weather where the 
+motion conveys this information and 
+where the edge to edge design just takes 
+advantageof every pixel on that Retina 
+display it's so nice it's great for apps 
+youuse  every day like messages your 
+calendar your email is gorgeous your 
+friends never look more attractive and 
+GameCenter  we just completely ran out of 
+green felt
+and would as well this has got to be 
+good for the environment
+the clocks look great and even apps like 
+stocksand compass  they just have this 
+look of precision thesense of purpose 
+the best way to appreciate  iOS 7 is to 
+see it live I'd like to give you a demo 
+rightnow so let's take our  first live 
+look at iOS 7 here it is you can  see how 
+device actually responds to the motion 
+in my handjust slide out the lock 
+screen you see how it  slides in I want 
+you all to look away for  a moment while 
+I type in my okay you can lookagain 
+don't tell anyone about that all right 
+so here we are on the  gorgeous new home 
+screen let's go into weather see on 
+whether it's a little cloudy today I can 
+actually tap here the degrees get more 
+informationlike  humidity and rain let's 
+swipe through some locations clear and 
+Sydney kind  of hot in Phoenix here in a 
+Big Thunder Mountain it's looking a 
+little little rough we've got some some
+thunder brewing oh yeah some heavy snow 
+here inthe  North Pole and a tropical 
+stormhere in Gilligan's Island I hope 
+they got off that Island so 
+and it's more functionalthan ever if 
+you pinch you get this gorgeous  overview 
+of all your cities even with the time so 
+it's a world clock as well let's take a 
+look at the calendar so clean its swipe 
+from days today like this turn it into 
+landscape see your whole week at a
+glance at a big week ahead  zoom out 
+scroll easily through your months even
+go all the way  out to the year let's 
+take a look atmessages you notice  as we 
+scroll we have this great sort of 
+playful motion the bubbles let's bring 
+up the keyboard 
+you slide contents of the keyboard you
+see thelayering  and transparency gives 
+you that sense of context there's this 
+gesture now from the left edge of the 
+device it's great for using  the device 
+of one hand if I want to just go  back I 
+can just swipe from the edge of the 
+displaypull back like that  move in out 
+so cleanand natural  let's take a look 
+at foldersthat go here into my games 
+folder  can have multiple pages store 
+hundredsRider awesome 
+take a look at Game Center 
+some of those good-looking friends let's 
+take a look atmale the type is just so 
+cleanand you're drilling  to a message 
+look at how you get these fullscreen 
+edge-to-edge  photos it's really great 
+andthat gesture for  moving in and out 
+works here too of course just move 
+between messages just like this so great 
+and if you just slide across on any  item 
+you can get  it the trash and more 
+options as well right here  in mail 
+finally let's take  a look at 
+Notification Center same as always we 
+can just swipe down from the top of 
+their Vice comes down  with a nice thud 
+you can see all notifications just my 
+missed ones and we have this great  new 
+today view so you can see your friends 
+birthdays current look at the weather or 
+up coming in invitations your calendar 
+your stocksand even a quick look at 
+tomorrow you know what's really great is 
+for the first time ever Notification
+Center is now available from thelock 
+screen  as well you don't even have to 
+unlock your device so that's a quick 
+look at iOS 7 it's a comprehensive 
+end-to-end redesign of the user 
+experience installing iOS 7 on your 
+phone is like getting an entirely new 
+phone but when you already know how to 
+use one that's so much more beautiful 
+and functional than ever before but iOS 
+major feature release as well I have  10 
+features I want to talk to you about
+today starting with control center 
+control center is something that's so 
+simple and yet so essential you have 
+those switches that you just want to get 
+to really  quickly from wherever you are 
+well now with control center swipe up 
+from thebottom of  the device 
+and there they are
+turn onairplane mode  adjust your 
+brightness play a songeven  get a 
+flashlightand  available from anywhere 
+including your lock screen so if you 
+wake upin the  middle of the night you 
+need to find something your flashlights 
+right there and that's control center 
+next let's talk about multitasking now 
+iOS 7 has always been built on the 
+industrial strength foundations of OS 10 
+and had intrinsic  powerful multitasking 
+capabilities but we had to be careful 
+about  how we've exposed these two 
+applications because we want to preserve 
+great battery life now in iOS 4 we did 
+add support for select kinds of
+applications to do multitasking things 
+likeplaying music in the background or 
+receiving a voice over IP call while 
+your app was in the background
+well now in iOS 7 I'm pleased to 
+announcethat we're going  to have 
+multitasking for all apps with great 
+so how does itwork well imagine  you 
+have an app thatyou're using  constantly 
+throughout the day a social networking 
+app or somethingyou're checking  in all 
+the time well iOS 7  is notices that 
+pattern of use and is going to  provide 
+that app with frequent background 
+activity to stay up to date let's see if 
+another app you usemay be that you  just 
+check-in on in the morning breakfast 
+maybe at night after  work well iOS  7 
+notices thattoo and it's going  to give 
+that app background cycles just in time 
+so it's up to date for when you need it 
+now in addition  to this intelligent 
+scheduling iOS 7 does opportunistic
+updates the average user wakes their 
+device dozens of times a day and  those 
+provide great opportunitieswhen the 
+system's already  powered up to update 
+apps in thebackground  it also adapts 
+intelligentlyto network conditions  so 
+if it's a good coverage it's a great 
+time tofetch and it coalesces updates 
+across multiple applications so once you 
+have those radios power it up lets 
+multiple applications take advantage of 
+itfor their background updates  and 
+finally iOS 7 responds to push
+notifications as a trigger to give that 
+application time in the backgroundso 
+when you follow that notification the 
+Apple are to be up to date 
+now Iowaseven  also has a great new user 
+interfacefor moving  between all the 
+things you have going on on your phone 
+now you can double click and  move into 
+Notification Center and just swipe 
+between your running applications tap 
+andmove right  in and that is 
+multitasking in iOS 7 
+next let's talk aboutSafari Safari is 
+the most popular mobile browser in the
+worldand an iOS  7 we're making it even 
+better has a great new full-screen  look 
+really focus on your content if you pull 
+down tap at the top you can now get a 
+smart search field from that search
+field you can get it one tap access to 
+all ofyour  favorites as well as do 
+searchand access  URLs and it's a great 
+new interface for your tabs in addition 
+to all ofthis it has parental  controls 
+and integration with the same iCloud 
+keychain you saw earlier with Mavericks 
+I'd like to give you a demo of  Safari 
+now let's take a look okay let's head on 
+into Safari  so here we are in Safari 
+I'm gonna just zoom in on this page one 
+you watch as I scrollall the controls 
+just recede and now you have that full 
+screen for your content  we've really 
+improved the way you navigate now in 
+Safari I'm just gonna tap inhere to a 
+link to a detailed story we can even 
+zoom in of course on this page in that 
+same gesture you saw earlier for going 
+back well of coursethat works  in Safari 
+as well so I just swipe in from the edge 
+of the display and I can navigate back 
+and forth through my browser history 
+just  like that it's such a fantastic way 
+to browse next let's look  at that 
+unified search field I'm just gonna tap 
+up hereat the top you see how  I have 
+one tap access to all my favorites it's 
+really convenient but I'mgonna type in 
+this case so I'll type D is and you 
+notice Ihave a top URL head as well as 
+Google search suggestions as well 
+available  all right here we've really 
+improved bookmarking as well I use this 
+bookmark control down at the bottom  I 
+seemy bookmark folders all my bookmarks 
+we also have shared links you can see 
+stories posted by people you follow  on 
+Twitter and my reading list and now just 
+like you saw in  Mavericks on iOS you can 
+scroll continue
+mostly from article to article without 
+coming back to the list 
+it's really awesome next let's take  a 
+look at tabs and click here at the 
+bottom intotabs unbelievable  and you're 
+no longer limited to just eight 
+and down at the bottom are also all your 
+iCloud tabs you can see what you left 
+openon your other devices as well and 
+tabs they're really nice to use you just 
+tap sweep intoa tab back out  back in 
+back out it's just fantastic if you want 
+to reorderyour tabs just tap and hold 
+just rearrange them like thisand if 
+you're done with a tab just swipe it off 
+to the side and it goes away and that's 
+the new Safari 
+let's take a look now at control center 
+so I'm just gonna swipe up from the 
+bottom of my display an up comes control 
+center see have these great switches at 
+the top can turn on and off Do Not 
+Disturb  for instance access my 
+brightness  can even access a flashlight 
+really useful at night play a  song and 
+of course this is available to me 
+everywhere so if I'm in Safari for 
+instance let's bring it up here you  can 
+turn off that music and you notice how 
+it's layering and transparency take the 
+personalitythe environment where you 
+bring it up
+that's control center
+next up multitasking it's just a great 
+wayto get  across all the things you're 
+doing on your device so if I just double 
+click here on  my home button jump into 
+multitaskingI can just swipe across 
+everything I have running you want to 
+move into one messages double tap back 
+out move into mail back out just like 
+this it's really really nice that's 
+multitasking in iOS 7 thank you 
+so of course there's there's much much
+more the iOS  7 including airdrop airdrop 
+is absolutely theeasiest way to  share 
+with the people that are right around 
+you so now when you're in any app that 
+supports a share sheet  you bring up the 
+share sheet and your friends that are
+all around you just show up right there 
+you tap onone and they're going  to get 
+a panel right on their display and they 
+can accept what it is that you shared
+they accept it they're taken right into 
+the app and you know if you want to 
+share with multiple people you just tap 
+tap tapno need  to wander around the 
+room bumping your phone 
+now this is system-wide for any app that
+supports a share sheet and of course  it 
+uses peer-to-peer Wi-Fi for maximum 
+speedand all your transmissions are 
+securely encrypted becauseit uses  the 
+latest Wi-Fihardware  it's supported on 
+the iPhone 5 the fourth-generation iPad 
+iPad Mini and the fifth-generation iPod 
+touch and  that is airdrop next let's 
+talk about the camera  so now your camera 
+and iOS 7 is 4 cameras in one you can 
+just swipe  from your video camera to 
+your photo camera to your square cropped 
+camera to yourpano camera  and when 
+you're taking stills you now have access 
+tolive photo filters from some gorgeous 
+black and whites  to some classic  color 
+filters aswell 
+so with your great new camera we want to
+give you a great new way to manage your 
+photos and it's the new Photos app you 
+know for many usersthis is what their 
+photo organization looks like an endless 
+unorganized stream of their camera roll 
+we've all been there but youknow it 
+doesn't haveto be this way there's 
+greatinformation in those  photos iOS 
+knows where you took the photos and when 
+you took them and that provides inherent 
+structure that we can use to organize 
+those photos and now in photos in iOS 7 
+we do we organize them into moments I'd 
+like to give you a demo of that right 
+now
+so let's take a look now at  the Photos 
+app so here you see some photos that 
+weretaken in San Francisco and you see 
+nothing was done to organize these 
+photos explicitly and yet they have
+these labels like the Palace of Fine 
+Arts Baker Beach Lombard Street it 
+provides this natural organization for 
+appreciating the photos we can go up 
+there more trips at more time in San 
+Francisco Golden Gate San Francisco 
+Fisherman's Wharf but then you see we 
+have home we have  photos taken at home 
+and photos taken at the elementary 
+schooland  around that area and now if 
+you want to zoomback  out to get a more 
+of a bird's-eye view  of your collection 
+we draw these moments intelligently
+together into collections so see here
+how that multiple day trip around San 
+Francisco is collected sorry about that 
+got a little excited there into it's a 
+very exciting interface into a multi-day
+trip in San Francisco andthat time at 
+home andaround  the school well that's 
+one moment that's one collection as well 
+it's a really great way to browse your 
+photos you can even go all the way out 
+to theyear level look across  your whole 
+photo collection
+and look at how we pull out the 
+interesting places that you went in that 
+year like 2011 was  Colorado and Hawaii 
+remember when you did itbut iOS does 
+that's right there and you know with 
+this Retina displayyou  can even kind of 
+make outpatterns of photos and when 
+different occasions are and of course we
+found like we had the urge that we 
+wanted to just tap in right  from here 
+and so now in fact you can you canjust 
+tap and scrub and find the photo you're 
+looking for just like that it's really
+just amazing  so I can just pick a photo 
+here whichever one I want it's kind of 
+cute and now we can edit it because we 
+have photofilters so I can go into the 
+filtershere  I can try different color 
+effects and if I find one I like maybe a 
+nice blackand white can do  it just like 
+that 
+I'll ply it save that photo away we also 
+have great new waysto share your  photos 
+in the photos apps let's bring up
+sharing we have a airdrop right here if
+any of you were runningiOS 7 I'd see 
+you it looks like it didn't leak so 
+that's good you're not in there right 
+now  but you have airdrop you have  access 
+to other photos you can share them from 
+right here
+just really handy great photo sharing 
+option is iCloud photo sharing I'm going
+to tap onthat now it's going to iCloud 
+photo sharing and from here I can select 
+the photo streams that I want to share - 
+so I'm on Family Photos  now but I'm 
+goingto drill in and I can see other 
+photo streams I've set up and now other 
+peoplecan share into my photo stream as 
+well so these are shared photo streams 
+I'll just select a photo stream here and 
+type a little message we'll post that 
+photoso we've  made it really easy  to 
+share and we've also made it a really 
+great experience to experience  the 
+photos you and others have shared with 
+this new shared tab at the bottom so I'm 
+going togo in  here see my photo with a 
+commentI can see the  comments of other 
+people and the photos that they've 
+shared and now we even support sharing 
+video via iCloud photo sharing and we 
+have a great way to just browse those
+shared photos I just tilt the device 
+into landscape I can scroll through  it 
+like this and just look at how beautiful 
+that is
+what a great way to experience your 
+photos so that's the new Photos app in 
+iOS 7 
+so integration with Internet services is 
+a huge part of the experienceof iOS  and 
+never more so than an iOS 7 so to  take 
+you through some of those features I'd 
+liketo  bring up Eddy Cue Eddy 
+great job Craig thank you thanks it's 
+greatto be here  so let's talk about 
+Sirithe first thing is Siri has a 
+gorgeous new interface now as I speak 
+you'll see  a sound wave across the 
+bottom  and you get the results in a 
+beautiful gorgeous clean way but Siri 
+has always been a lot about your the 
+voice of Siriand we've got an all-new 
+voice hiwhat can I do for you  and you 
+can also choose a male voice hi Eddie
+what can I do for you and we've got high 
+quality thank you we've also got high 
+qualityfemale and male voices for 
+FrenchOh what  these we keep eat as  well 
+as German  musk honey 32 nettie and we're 
+gonna be addingother languages over 
+time now Siri is also getting a lot 
+smarter  it knows how to control more of 
+your device 
+so you could say play my lastvoice mail 
+or turn on Bluetooth or increase my 
+brightness
+and it can answer a lot more questions 
+because we've integrated some new 
+serviceslike Twitter  so you can see 
+what people are saying or what's 
+happening we've integrated the world's 
+largestencyclopedia  in Wikipedia and 
+we've even integrated web search results 
+fromBing  right inside of Siri and it's 
+great forphotos  too and that's some of 
+the new features of Siri in iOS 7 now 
+Siri is also a big part of our next 
+feature iOS in the car now 95%  of the 
+cars being sold today have integrated 
+musicplayback and control  from an iOS 
+device but we want to take this 
+integration to a whole nother level what 
+if you could get iOS on the screen that 
+is  built into your car so that  you can 
+make phone calls play music go to maps 
+get yourAI messages  right on the screen 
+in your car or eyes free using Siri so 
+now when you make a phone call it's 
+going  to look something like this call 
+John Appleseed or play get lucky or go 
+to maps get directions or even get your 
+AI messages read to you and you can 
+dictate a response all eyes free 
+now all these car manufacturers are 
+introducing iOSintegration in 2014  and 
+I know which one I wantto buy and 
+that's iOS inthe car  next the App Store 
+now the App Store looks beautiful  it's 
+way easier to find apps  than ever before 
+we've added a  new feature where you can 
+look for apps based on your age range 
+kids categories parents are goingto 
+love  this and apps near me you can find 
+the most popular apps based on your 
+currentlocation so now let's say I'm at 
+AT&TPark in  San Francisco and here are 
+the apps I would see or I'm at the
+Louvre in Parisor I'm in  Union Square 
+shopping it's that easy to discover new
+apps it's really great now the next 
+feature I know you're all going to love 
+because every day you see something like 
+this well no more because the App Store 
+updates your apps automatically 
+next let's talk about music  the music 
+app in iOS 7is beyond a doubt  the best 
+music player we have ever done the first 
+thing you'll notice is we provide you 
+with beautiful artist images right in 
+your library you just tap an artist and 
+you see the songs but it's not just the
+songs on your device you see all of your 
+purchase music from iCloud right in  your 
+library and if you want to hear one of 
+the songs you just tap and you get our 
+beautiful now playing screen but it's 
+not just your purchase music in the 
+video apps you get all of your movies 
+and TV shows right for my cloud right in 
+your library it's really really great 
+turn the  device sideways you see your 
+albums you can just swipe to see more 
+and once you seewhen you like  you tap 
+and zooms right in now the music app is 
+the best way to listen to your music but 
+today we're introducing an amazing way 
+to discover new music and we call it 
+iTunes  radio 
+and here's what it looks like it's built
+right into the music app but rather than
+tell you about it I'd love to show it  to 
+you and we'll launch the music app and 
+the first thing you'll notice is we've 
+got a setof featured stations that our 
+programming team have createdso you can 
+see the songs that are trending on 
+Twitter rightnow  or even the songs that 
+you guys are all going to hear this week 
+at WWDC but I feel like summer songs so 
+you just tap and once you have a station 
+you love you can just tap the I and you 
+could share  it with a friend or even 
+create a new station  based on this 
+artist or song I can easily skip to the 
+sea what's the  next song 
+I'll go back to stations but it's not 
+just the featured stations that we 
+provideyou can create  your own stations 
+here are some  that I've previously 
+created but I feel like doing something 
+new now  our music team is providing you 
+with hundreds of stations based on 
+alternative country classic rock but I 
+feel like doing something a little more 
+specific how about some Led Zeppelin 
+so it starts off witha great Led 
+Zeppelinsong let's go ahead  and see 
+what else is on this station and a great 
+thing is I can always modify the station 
+I can just tap the star and I can say 
+play more songs like this or never play 
+this song or add it to my wish  list now 
+I like this so let's play some more
+songs like this now another great 
+feature of iTunes radio is it keeps 
+track of all the songs that you're 
+listeningto across all the stations all 
+your devicesand you can  get to them by 
+just tapping history you can see them 
+allhere you can preview and buy right 
+from there  and that's iTunes radio 
+so iTunes radiois built into iOS  7 it 
+works on your iPhone your iPod Touch and 
+your iPad it's also built into iTunes on 
+your Mac and PC and evenin  your living 
+room builtinto Apple TV iTunes  radio is 
+free with ads and if you're an iTunes 
+Match subscriber it's completely ad free
+we're starting in the US and we'll be 
+addingother countries over time and 
+that's the new music app on iOS 7 it  is 
+the best music player we have ever done 
+thank you 
+Thank You Eddie so 10  amazing features 
+in iOS7 and a  comprehensive end-to-end 
+UI redesign and of course we're bringing 
+it all to iPad as well  now there's more 
+to iOS 7 than we had time  to talk to you 
+about in depth here today
+things like FaceTime audiowhere you now 
+can doaudio only  high quality audio 
+calls over Wi-Fi on any iOS device
+notification sync so if you dismiss a 
+notification on one device you don't 
+have to deal with it over and over  again 
+on your other devices great feature for 
+our users in China with integration of 
+the popular microblogging website site
+Tencent Weibo and for those of you who 
+have peoplewho  just won't let go 
+phone FaceTime and message blocking also 
+for our enterprisefee  customers per app 
+VPNnow there's yeah a couple enterprise 
+people in the audience alright so in 
+addition to all this there's one feature 
+I want to talk about in a little bit 
+more detail which is activation  lock so 
+hundreds of millions of us use Find My 
+iPhone to find our phone when it's just 
+lost inthe couch or maybe left at 
+Starbucksbut also when it's been stolen 
+and now with  activation lock if a thief 
+tries to turn off Find My iPhoneor if 
+theyeven wipe the device  entirely they 
+will not be able to reactivate it 
+because they don't know your iCloud 
+username
+we think this is going to be a really 
+powerful  theft deterrent now of course 
+in addition to being a great release for 
+our users 
+iOS 7is also fantastic and major 
+release forour developers as well the 
+SDK includes over 1,500 new api's can 
+add airdrop integrate with third-party
+game controllers new api's for  taking 
+advantage of multitasking ibeacons  for 
+Bluetooth le micro location sprite kit 
+for super fast power efficient game 
+animations and you ident to bring 
+physics to your UI view animations so I 
+so iOS 7 isavailable to you developers 
+in beta on the iPhone today 
+we'll have betasfor iPad coming up in 
+the near for the coming weeks and for 
+everyone elsea final release  coming 
+this fall so i io s 7 will  be available 
+foriphone 4 and later ipad 2 and later 
+the iPad Mini and the fifth-generation 
+iPod touch that is iOS 7 I hope you love 
+it 

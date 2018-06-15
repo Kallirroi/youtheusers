@@ -1,0 +1,19 @@
+
+body {
+	background: #fff;
+}
+
+.main {
+	margin: 0.5rem;
+	font-family: 'SF UI';
+	font-size: 0.5rem;
+	line-height: 1.2;
+	text-align:justify;
+}
+
+.you {
+	/*font-size: 3rem;*/
+	line-height: 0;
+	background: #000;
+	vertical-align: middle;
+}

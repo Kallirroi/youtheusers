@@ -1,0 +1,2375 @@
+ah
+and walking 
+Oh
+thank you
+hmm 
+thank you verymuch 
+it alwaysthank you 
+it always helpsand I appreciate it very 
+muchso we've got an awesome morning 
+togetherthis morning and thank you for 
+coming so much we we have over 5,200 
+attendees here today we sold out within 
+two hours I'm sorry this is the biggest 
+place we can get to have this so I'm 
+sorry for all those people that couldn't 
+make it and we wish we could sell more 
+ticketsbut we don't know where to have 
+it if we do so5200 attendees over 120 
+sessionsover a hundred hands-on labs 
+where you can take your code in and get 
+tohelp tuning it and porting it to some 
+ofour newer devices and there are over 
+a hundred Apple engineershere this week 
+a thousand sorryApple engineers here 
+this weekto help you so there's a lot 
+of app of folks floating around grab 
+them make use of themand we hope you 
+havea great week here at WWDC now we're 
+goingto talk about three things today 
+you know if the if the hardware isthe 
+the brain and sinew of our productsthe 
+softwarein them is their sole and today 
+we are goingto talk about software we 
+got some greatstuff to talk about 
+OS10 Lion iOS 5 and some kind of 
+interesting new cloud stuff so let's
+start with Liontell us all about Lion 
+I'm gonna ask to my colleagues Phil 
+Schillerand Craig federighi to take us 
+throughline and give us some demos Phil 
+take thefeed 
+oh good morning everyone how you doing 
+yeah come on energy in the room this is 
+the Developer Conference that's what I 
+like it I am really honored to be the 
+firstto present to you the first of our 
+new products today in this product is 
+allabout the Mac and the Mac is doing 
+incredibly wellour customer base 
+continues to grow at a tremendous pace 
+we now have over 54 million active Mac 
+users around theworld and growing the 
+customers love the products and press
+and Animus have really incredible things 
+to say aboutit 
+things like thisfrom All Things D 
+there's really no other wayto say this 
+the Mac is kicking ass now that's really
+nice but what did John mean well this is 
+what he meansthe last quarter the PC 
+market actually shrank year-over-year 
+one percent while the Mac grew 28% 
+and mybook that's an ass-kicking now 
+let's do you think this is an aberration
+the Mac has outgrown the industry every 
+quarter forthe past five years it is 
+going so strong and it's because the 
+productsare incredible products like 
+the new MacBook Air it's beautifulits 
+thinits light its fast the whole PC 
+industrywants to copy it but as you 
+know we've been leading in notebooks for 
+a whilewe're the first to really drive 
+the majority ofour PC business to a 
+notebook business and it's almostthree 
+quarters of the Mac's we've shipped 
+today but whether you want a great new 
+notebook or a killer desktop with the
+new iMacthese Macs are the best that we 
+have evermade in the history of Apple 
+andthey're great not just because of 
+the hardware they run but because ofthe 
+softwareMac os10 is the heart of the 
+Mac and if you'rekeeping track you know 
+we launched Mac OS 1010 years ago we 
+built it on a solidUNIX foundation we 
+added toit the ease-of-use and 
+simplicity that we know Apple is 
+renowned for and we built intoit 
+amazing technologies for all ofour 
+great developers to make the world's
+best applications to run onit and for 
+thoseof you who are around and remember 
+this thisis what Mac OS 10 looked like 
+it was a revolution inits day in over 
+thelast ten years it's evolved become 
+more refined morepowerful more 
+beautifulthan ever before the Mac os10 
+is looking incredibly strongso where do 
+we take it next well next up in OS 10 is 
+lying a major release with over 250 new 
+features and if you'dlike me to go 
+throughevery one of them today yes well 
+I'd love toI'm told I don't even have 
+time totell you about ten key new 
+featuresso we'll really get into ten 
+awesome features first up right into it 
+number one multi-touch gestures one of 
+the great thingsabout the mat from the 
+beginning was thatit uh sure Dan era of 
+a graphic unit user interface with a
+mouseand cooking and dragging but so 
+much haschanged over the last 10 years 
+we now build multi-touch trackpads into
+all of our notebooks andwe offer them 
+on our desktopswe've learned a lot from 
+iOS as well 
+so nowlion can count on multi-touch 
+from the beginning youcan have 
+beautiful fluidmomentum based scrolling 
+you canhave incredible multi-touch taps 
+to zoom in on stories or pictures you
+can dynamically zoom with beautiful
+fluid pinch motions you can swipe
+throughyour photographs your slides 
+yourweb pages all with an incredible 
+physical realism that's never been
+possible the PC operating system before 
+and this has implications across the 
+system anda lot of little important 
+areas here's a simple examplethe scroll 
+bar why do we have scrollbars scroll 
+bars were there sothey could click with 
+the mouse anddrag and scroll but now if 
+you'repushing your window with 
+multi-touch you don't need them they can 
+disappear and if a much more beautiful 
+reading environment but when you go to
+scroll they magicallyappear give you a 
+senseof place and proportional size and 
+then disappear when youdon't need them 
+so multi-touch is now built throughout
+the system in a very powerful way number 
+two 
+full screen applicationswe've had some 
+full screen applications before and 
+theseare really important for notebooks 
+get take advantage of every pixel onthe 
+display but developers have hadto work 
+hardto make their applications 
+hand-coded to do full screen 
+applications including apps like like
+i photo well now with line we've built 
+in a standardmethod for developers to 
+createfull screen applications and it 
+has a simplesystem control on the top 
+rightso all users know where to tap and 
+then bring their applications full
+screen but thisis in full screen like 
+it was before because now you can keep 
+your application running full screen 
+with a simple swipe gestureget back to 
+your desktop get something you need go 
+back to applicationnever having left 
+full screen in fact you canhave more 
+than one full screen application running 
+at the same time so we'veworked on a 
+numberof our applications to bring them 
+into the new full screen mode of Lion 
+system applications like Safari mail 
+iCal iLife applicationsiPhoto iMovie 
+GarageBandI work with keynote numbers 
+and pages and all these applications 
+goingfullscreen to have a great 
+experience rightout of the box here's 
+anexample of how it looks this is now 
+runningfullscreen in Safari you can 
+have a beautiful place for viewing your 
+documentsand now there's a new feature 
+since we've got all this extraroom on 
+theleft-hand side called the reading 
+listkeep track of things you want to 
+get to later
+here's iCal runningfullscreen here's 
+preview showing you PDF documents
+runningfullscreen so you can just have 
+abeautiful experience like we've never 
+had on a computer before with full 
+screenapplications next feature for 
+manyusers this will be the best feature 
+of Lion it's called Mission Control now 
+we all like torun a lot of software the 
+Apple we've created many featuresto 
+helpcustomers find just what they need 
+expose for finding a document dashboard 
+for getting at a quick widget spaces for 
+organizingyour work environment but did 
+it all work together inone unified way 
+wellnow with line we've unified that 
+with a simplegesture to get into 
+Mission Controland this is a bird's-eye 
+view ofeverything going on in your 
+system on the main window well that's
+the current desktopyou're working on 
+withall the documents now organized by 
+what application isrunning on them and 
+youcan tap on any document and bring it 
+to the front that'sright there Center 
+for you to work on up above are allyour 
+spaces so you can have multiple desktops
+you can have multiple full screen apps 
+running get to any one with a single tab 
+on the left of those spacesas a new spa 
+one just for your dashboard widgets you 
+canget to again with a single tab 
+so that's Mission Control andwhat I 
+liketo do now is before we move on have 
+Craig federighi come up and give you a
+demo ofthese three new features all 
+working togetherCraig hello good 
+morning so 
+let's take a lookat lion in action 
+we're going to start with gestures great 
+played it place to experience gestures 
+is here in Safarithe first thing you'll 
+notice is apparently something funny is 
+thathow simple this UI looks because 
+there are no scroll barsit's a really 
+clean look we don't need scroll bars 
+anymorebecause we can simply push the 
+content with ourfingers we can flick 
+and getmomentum get a nice little 
+bounce the page feels really alive 
+beneath your fingers you can also expand 
+your fingers and fluidly zoom justlike 
+thatzoom out and you get a nice little 
+bounce page goes right back into place 
+if I want to 
+smart zoom I just double tapwith two 
+fingersit's smart zooms in double tap 
+againsmart zooms out now I want to show 
+you something really cool
+with gestures and that's how it can 
+navigate in Safari I'm going to drill
+into a storyand then after I've read it 
+I want toactually get back to the 
+previous page wellnow I can just take 
+twofingers and swipe the page right off 
+to theside and return back to my 
+previous page
+I wanna getback and swipe right back 
+really fantastic
+in fact I can swipe throughmy entire 
+Safari browsing history justlike that 
+really smooth next upI'd like to show 
+youfull screen apps I'm gonna launch 
+iPhoto here and you can seethat I 
+photos adoptedlions and standard new 
+full screen control so I'll just take 
+lionor take iPhoto full screen it's a 
+great way to lookat my photo album if I 
+want toget back to my desktop take 
+threefingers and I can just swipe the 
+desktopswipe iPhoto way and back to my 
+desktopbut I didn't have to leave 
+iPhotoand take it out of full screen 
+it's actually right there take a peek at 
+itgo back just like that we love this 
+somuch that we made gesture is 
+accessible inexactly the same way swipe 
+over tothe left and I have access to my 
+dashboard you can see Safari supports
+full screen as well let's gotake our 
+safari window full screen so now we have 
+our dashboard over our desktop over here 
+to the leftwe have Safari and of course 
+I photos still there in full screen as
+wellyou'll notice how Safari is making 
+great useof all the available space on 
+the screen for my content but if I want 
+to get at my bookmarks bar my menu just 
+go to the topyou see they slide right 
+out like that really nicely and when I 
+wantto exit full screen I have a 
+control rightthere in the upper right 
+animates right back outlet's take a 
+look nowat photobooth this is an app 
+absolutely born to runin full screen 
+you can see I'm surrounded by the 
+curtains of the the photo boothand in 
+hereI can experience some fantastic new 
+face detectioneffects so notice as I 
+move thebirds actually track 
+it's right it's the most important
+feature in line and wecan also use this 
+face tracking technology to perform some 
+targeted facial enhancements for
+instanceI can finally have those big 
+eyes thatI've always hoped for so that 
+make a picture of that so that's that's 
+pretty cool so playing around yeah 
+that's great stuffso you know you can 
+spendhours at this so fullscreen is 
+fantasticbut of course Mac users love 
+to get do a lotof things at once and 
+that often meansthat they have a lot of 
+windows in fact my desktop often looks a 
+little bit morelike this right I've got 
+a lotgoing on so how do I get across 
+all of those differentactivities well I 
+just takethree fingers swipe up on the 
+trackpadand I'm in Mission Control from 
+here I can get at any window I want so 
+if I want to get itI Cal here I click 
+it comes forwardsweet back into Mission 
+Control over the dictionary same thing 
+and across thetop you see I have my 
+dashboardmy desktop my full screen apps 
+so I want to get to iPhoto just click 
+comes forwardfrom anywhere three 
+fingers up and I'm back in Mission
+ControlI can also quick look my windows 
+if I just hit spacebar hereget a better 
+look atmy calendar or take this pile of 
+preview windows and spread themapart 
+with a little gesture up but you know 
+what'sreally awesome is the way that 
+multiple desktop spaces are now
+integrated right into Mission Control
+just take my mouse up to the corner of 
+the screen anda little space pops up I 
+clickI've just created a new space and 
+I canpopulate it by just dragging the 
+windows I want to workwithin that space 
+just like this and I've set up a new 
+desk
+really usefulI can swipe through the 
+spacesof course here in admission 
+control go over to my desktop and if I 
+want tothen take even an entire app in 
+all of its windows and create a new 
+spacefor that I can click on the 
+previewicon drag the whole pile to the 
+cornerI've just created another space 
+and the spaces are justas easy to clean 
+up as they were to create I just click 
+they delete and theyfloat windows fly 
+right back to my original desktopspace 
+so thatis Mission Control thank you 
+very much 
+Thank You Craigjust see how these new 
+features now work seamlessly together to
+createan incredible experience in OS 10 
+unlike anything we'vehad on a personal 
+computerbefore 
+next upthe Mac App Store we launched 
+the Mac App Store this past January and 
+usershave found out that it is the best 
+place to purchase and discover new 
+software applications now for years 
+there havebeen many software channels 
+to buy PC software and they all work 
+kindof the same way you hop in your car 
+you drivedown town you buy a DVD if 
+they happen to haveit you drive back 
+home you load it up or you wait for it 
+to comemail-order will no more well now 
+withthe Mac App Store you can get your 
+software right from the comfort of your 
+own homeon your Mac and in the last six 
+monthssomething incredible has happened 
+the last six months the Mac App Store 
+has now become the number one PC 
+softwarechannel for buying software 
+that's incredible 
+passing Best Buy andWalmart and Office 
+Depot and the developers that have 
+gottenon board with the Mac App Store 
+have seen somegreat success - for 
+example Autodesk they brought their 
+SketchBook Pro application to it and
+sincethey've put it on the Mac App 
+Store they've seen a millionnew users 
+on the Mac feral interactive has brought
+a hostof games including Mini Ninjas 
+hopefully you've allplayed it doubling 
+of overall revenue sincethey brought it 
+to the Mac App Store and small great 
+developers likePixelmator has brought 
+the amazing new image editing
+application to the Mac App Storethey've 
+seen a quadrupling ofthe revenue in 
+fact they made a milliondollars in 
+theirfirst 20 days so the Mac App Store 
+has been a big hit for large and small 
+developers so what's newin Lion well 
+firstit's built right in you don't 
+forget it and get it and decide to use 
+itit's built-in for every Mac user and 
+there's a lotof great features for you 
+developers to takeadvantage of some of 
+them you're used to fromthe iOS App 
+Store like in-app purchases you cannow 
+build those in push notifications if you
+want to alert usersabout important 
+informationyou can make your 
+applications more secure there's a
+built-in sandboxing method now in the
+MacApp Store and for users downloads 
+will be even fasterbecause you can get 
+theseupdates as Delta updates 
+so that's theMac apps on it's a really 
+importantpart of the whole experience 
+of line is you'll hear more about number 
+five a simple but powerful idea 
+launchpad would it be great if no matter 
+where you arein your system if you want 
+to getat an application and quickly 
+launch ityou can with a simple gesture 
+well now you can with launchpad you 
+simply makea simple gesture a pinch 
+motion and all your applications fly
+ontoyour screen no matter where they 
+arein your system launchpad knows where 
+they areyou can have multiple pages of 
+applications thatyou can organize any 
+way you want when you go andbuy a new 
+application on the Mac App Store and 
+downloads installs rightinto your 
+launchpad and you can make it look 
+however you like you can rearrange your 
+icons youcan create folders just as 
+we're used tofrom iOS and now you can 
+dothat on your Mac as well so that's 
+launch pad next resume here's a simple 
+ideafrom the beginning with the 
+computeryou've had to run applications 
+sometimes you quit them you go back and 
+you're backat the starting point you 
+get you have no more windows open your
+documentsaren't open you usually have 
+to pick a templatewhy can't a plication 
+x' get you back to work quickly well 
+that'sit resume does now when you 
+launch anapplication and lyan it brings 
+youright back to where you were when 
+you quitit remembers what documents you 
+were opened remembers the text that was 
+selected in the document remembers where 
+thepalettes were and the windows and 
+everything just how you like it and 
+resume doesn'twork just on an 
+applicationit works system-wide so the 
+next time you have to shutdown and 
+restart your your Mac for a reason maybe 
+you've installed some new software and 
+asked you to reboot get you like 
+everythingjust the way it is well don't 
+worry you get the new login window you 
+log inand lion will bring you back to 
+the work environmentas you left it when 
+you restartedall your applications 
+running all those spaces you set up all 
+just the way you like it
+so that's resumed number seven autosave 
+from the beginning of using computers 
+we've all had toremember one really 
+important factsave save save all your 
+workas you're going whether it's file 
+save or commandS on a Mac you better 
+keep savingas the one time you might 
+forgetto save what you're doing 
+somethinggoes wrong and what are you 
+goingto hear you should have saved what 
+you're doing why should you whycan't 
+the computer help youwell that's what 
+lion does as you're creating a document 
+lion can automatically save it in the
+background without you having to do 
+anythingwithout you having to see 
+anything your work is just being saved 
+for you this is a really powerful but 
+simple thing but but as we got into we 
+found there's more thingswe can do for 
+you since we're Auto saving so if you 
+zoomin on the title bar of your 
+documents you'll see the nameof your 
+documentis actually a menu now that you 
+can tap on and take advantageof the 
+powerof autosave but for example let's 
+say you're doing work and you don't like 
+the work youdid and you're worried it 
+gotauto saved over what you liked that 
+you've done previouslywell now I can 
+just select revert to last open and get 
+back towhere you were when you started 
+and maybe you love the changes you've 
+madeand they're exactly what you want 
+youdon't want it to ever get auto saved 
+overit again because it's perfect the 
+wayit is you can just select lock and 
+now yourdocuments locked it's like a 
+templateand nothing can ever change it 
+you can even right from within the 
+application so like duplicate and create 
+a seconddocument just like the first 
+one that you can start working on 
+anotherversion so you have the power of 
+all ofthis right from the title bar of 
+your window so that'sauto save now auto 
+save gave us a great idea to go even 
+furtherwith the next feature and that's 
+called versions so you're workingon a 
+document you'reentering the text you're 
+formattingyou're adding copy you're 
+adding graphicsand all along autosave 
+is saving your document in fact it's 
+savingall these versions of your 
+document as you're working so we call 
+that versions it's automatic youdon't 
+have to do anything we'll do it for you 
+withLion if you love something at a 
+split second you can of coursetake a 
+manual snapshot if you want and it's
+very efficientwe only store the 
+difference betweenthe versions they're 
+not whole new documents 
+and youdon't have to worry if you ever 
+share your work withsomeone else that 
+they're goingto get all that back work 
+that youwon't don't want them to get 
+whenyou copy it off or you send it an 
+emailwe only send the current version 
+so how doyou get it take advantage of 
+thispower of autosave inversions 
+well againgo back to that menu on the 
+topand there's another choice there 
+that you may have noticed browse all 
+versionsyou tap on it and you get this 
+beautiful new interface it looks a lot 
+liketime machine but rather than being 
+about your whole system it's about that 
+onedocument you're working on on the 
+leftis the current version on the right 
+all the past versions you have a time 
+scaleon the right just like time 
+machineyou can scroll back through them 
+and they're all live you can switch to 
+make anyone the current one you can even 
+cut and paste between them so that's 
+versionswhat I'd like to do is ask 
+Craig to come back up andgive another 
+demoshowing how this all works together 
+Craig again all right well let's let's 
+start with launchpad you see it's an 
+iconright here on my dock I click I get 
+an instant viewof all of the 
+applications on my system no matter 
+where they're installedI can page 
+through themreally nicely with gestures 
+and when I want tolaunch let's say like 
+address bookit's just a single click to 
+bring it up can also gesture with a 
+forefinger pinch to get in as well 
+so of course when I want toadd things 
+to mylaunch pad the best way to do that 
+iswith the Mac App Store I'm going to 
+launch it righthere you can see on the 
+Mac App Store we have great featured
+applicationstop paid and free apps 
+categories we havealso all of your 
+purchase tabsso then if you buy another 
+Mac or you buy on one Mac you wantto 
+get the app on the other one
+youcan download them here at no 
+additional chargeand of course updates 
+with just aclick you can bring all the 
+apps youhave installed on your system 
+from the App Store 
+up to date well now let's try adding 
+Twitter to our Mac we're going to click 
+here and go to the Twitter product page 
+and with a clickyou can buy the app 
+actually lifts up out of theApp Store 
+andflies right into my Launchpad 
+downloads and is ready to use 
+from here I canjust click and position 
+it wherever I wantI can move it maybe 
+to the first page
+and as you seewe have folders like this 
+productivity folderworks great I want 
+to create my own folderjust pick 
+something up drop it and I've created a 
+folderjust like that in Launchpad next 
+I'dlike to show you just how fantastic 
+the Mac is now with Lion working with 
+documents I'm going to open the document 
+that I've been working on here on the 
+history of guitarswhen I start editing 
+a documentoften I'll position my 
+windows just the way I like them like 
+this maybe open up some inspectors 
+position them the way I want them and 
+then I'll set down to editing now this 
+guitar this looks maybe a little bittoo 
+metal for my target audience all delete
+that take take this move it asidemaybe 
+change the font hereon this on this 
+documentso I'm done with my edits for 
+now and I'm gonna quit and I want you to 
+watch what happens when I quit 
+absolutely nothing
+I wasn't prompted to saveI didn't need 
+to be because lion was actually saving 
+for me all along but it wasn't just 
+savingmy document it was saving exactly 
+the state of how I was workingso now 
+when I go back and launch pages again 
+you see itbrings back all my inspectors 
+just the way they werebrings back my 
+window position where it was andeven 
+has my text selection highlighted just
+as I left it perfect restore but we're 
+notjust storing the latest version of 
+thedocument we're keeping a history of 
+thedocument as it's edited so if I want 
+to go back maybe I regret these edits I 
+want to getback to the previous version 
+I go right here and browse all versions 
+and I'm taken right into the star field 
+where I get a view of my current version 
+on theleft and the history on the right 
+if I wantthis previous version to 
+becomecurrent I click restore it picks 
+up flies on top and becomes the current
+version of my document and I'm restored 
+butyou saw that was actually more 
+history than that I'll go back into the 
+star field here you can see I actually 
+have a full timeline here on the right I 
+cango back to the very beginning of 
+this document when it was just a few 
+paragraphsor step forward as I was 
+adding pagesand so forth but when I 
+restorea document you know very often I 
+don't wantreally the holo version I 
+likemostly what my new document has 
+become but often I want to harvest maybe
+just an image or perhaps a particular
+slide andbring it into the current 
+version with versions I can because 
+these two windows are actually live here 
+so if I have on my current version maybe 
+a page that could really use an image to 
+punch it upa little bit I go back to 
+thispast version I see oh look there's 
+there's aguitar that would be just 
+perfectwell I can just select the 
+guitarand the old version copy it and 
+then pasteit right into the latest 
+version and like that I've created just 
+the document I was looking for and 
+that'sversion thanks Thank You Craig 
+next number9 well as long as we've had 
+computerswe wanted to share documents 
+we have a new feature to help you do 
+thatand make it easier than ever it's 
+called airdrop you've got your computer 
+your friends got their computer and 
+trying toget documents between them has 
+always beensuch a pain in fact the 
+easiest way to do this that no one's 
+done better than is good old sneakernet 
+copy it off of one walk over to your 
+friend's computer copy it back on 
+Millian solves that with a new 
+technologyairdrop that's a peer-to-peer 
+Wi-Fi based networkso how does it work 
+when you go intothe finder in line 
+you'llsee on the sources on the Left a 
+new choicecalled airdrop you tap it you 
+get a new display inside the finder what 
+you see isyourself Center bottom right 
+thereand the people around you who are 
+alsorunning airdrop at the same time 
+you see their picturesI want to drag a 
+document over to Shawna's computer I
+justdragged the document on top of her 
+picture andit asked me are you sure you 
+want to sendthis and I confirm I do I'm 
+Shauna's computer because she's also now
+running airdrop she sees pops up overmy 
+pictureI'm trying to send her a 
+document she confirms she wants to
+receiveit and it downloads right into a 
+downloads folder and that's it that's 
+what it takes to now wirelessly share 
+files betweenLyon computers so it's a 
+peer-to-peer Wi-Fi basednetwork there's 
+nothing toset up its auto-discovery 
+Auto setup we have confirmation on both 
+ends just tobe safe 
+and your data isprotected over-the-air 
+because it's fully encrypted as it's 
+transferred so that's airdropand that 
+brings usto number ten number ten is 
+maila completely new version of mail 
+online it's beautiful the layout on it 
+is incredible
+it works in a window it takesadvantage 
+of fullscreen you can work in a two 
+column or if you want to have access to 
+yourmail sources a three column view 
+right thereon the left and you see that 
+the design of it's really optimized 
+aroundreading your mail have a 
+beautiful full height message windowon 
+the left and the message listyou see 
+snippets like we used tofrom iOS now 
+builtinto mail across the top you have 
+a favorites barsort of like a browser 
+does now in mail that can be favorite
+folders where you like to keepthings 
+you want toget at quickly probably the 
+most one of themost powerful features 
+is searching withsearching now we have 
+new search suggestionsso you start to 
+type what you'relooking for and mail 
+recognizeswhether that's a person or a 
+subjectand prompts you with the choices 
+you haveacross your entire mail 
+databasewhat you can find quickly when 
+you selectone it becomes what we call a 
+search token that'san interactive 
+search token where you can set some
+parameterson it and you can have more 
+than one and create boolean searches if 
+you wantbut probably the best feature 
+of the new mail is something we callyes 
+youcan love that it's okay boolean 
+searches
+probably the best feature somethingwe 
+call conversationview in male today as 
+you've got a conversationgoing you've 
+gotsome messages you've responded to or 
+replied andforwards you see the mail 
+gets longerand longer and they're 
+indentedand color coded things stripped 
+outit gets more and more difficult to 
+follow the flow of this and appreciate 
+the messagesthat were sent well now in 
+line there's abrand-new conversation 
+view that shows your messagesjust as 
+they weresent you see the messages you 
+see thepeople who send them you see the 
+attachments still in line all there for 
+youto view it it's completely 
+compatible with doing email with other 
+people whodon't have line and can't get 
+the same beautiful view so that's male 
+and lion I'd like to bring Craig up for
+onelast demo to show off male ok well I 
+absolutelylove the new male in lion 
+let's let's take a lookso it's got this 
+greatfull height message list perfect 
+for laptopsjust like this I've got my 
+message list on the side with snippets
+makes it really easyto find the message 
+I'm looking forwith this new favorites 
+bar across thetop so I can click 
+through mymailboxes really easily but 
+if I want to get back to my full list 
+they're available right here as well I 
+really find the new search to be just
+awesomebecause when I search I'm often 
+searching for a person let's say like 
+PhilI start typing pH see it prompts me 
+forpeople in my mail right now that 
+match so I go Phil Schillerfound 
+messages from Phil just like thatI can 
+useit can retarget the search to 
+specificinboxes or search all and of 
+courseas Phil showed you I can pick 
+whether I'm searching forfrom two or 
+the entiremessage 
+wellsuggestions don't just apply to 
+searching for peoplethey also work for 
+other things as well like let's say a 
+subject I'll search forTripp you see 
+that it's actually prompting me do you
+wantto search for messages that contain 
+Tripp or where Tripp justappears in the 
+subjectline or even suggest specific 
+subject lines that matchso I can select 
+thisand I've done a subject search on 
+Trippwhat about dates I'm going to type 
+March start typing March there you see
+it promptsme March 2011 
+like thatI've searched for all my 
+messages in March but what's really 
+awesome is the way you can combine these 
+reallyquickly to pinpoint just the 
+search you're looking for solet's say 
+lookingfor a message about that Phil 
+sent me it's the subjectwas something 
+about reservationit was from Phil 
+Schillerand it was last month like that 
+drills down to exactly the message we're 
+looking for it's really nice
+as awesome as thatis my favorite 
+feature is conversationsit's this 
+beautifulview of all the messages that 
+were sent in the conversation just as 
+they were sentwith all the images and 
+so forth and you'll notice that all of 
+that extra forwarded reply text that's 
+redundantin the conversation is 
+strippedright out it's gone but if I 
+wantto show it I want to see mail the 
+way it kind of looks inlessor mail 
+programsI can click like this it folds 
+rightout yeah this is awesome if I want 
+to replyto a particular message in a 
+conversation I can hover we get a reply 
+control and watchthis animation loop so 
+message hopsright out so that's great 
+andfinally when you want to file a 
+wholeconversation away you can just 
+drag it all at once
+drag all the messages put it your folder 
+and you're done that's mail in line 
+thank you 
+so those are thetop ten features of 
+mail and there's so much use we have 
+lion and there is so much more for you 
+tolearn about and discover and lion 
+amazing features just to bring up a few 
+and don't windows users who wantto 
+upgradeto a Mac deserve a migration 
+feature justlike we Mac users have well 
+now thereis in line when you upgrade 
+fromWindows we can help you migrate and 
+get to abetter computing experience 
+there's File Vault- yeah so for all of 
+you who want more security and 
+encryption on your hard drive you have 
+that facetimes built in even servers all 
+new with Lionserver isn't another 
+operatingsystem it's just a bunch of 
+applications you can purchase to run on 
+top ofLion so amazing depth of features 
+foryou and for all the developers out 
+herewe have over 3,000 new API so you 
+to take advantage of the power of Lion 
+amazing stuff you can do all the things 
+we showed here you can have full screen 
+applications you can create versionsyou 
+cantake advantage of autosave all of 
+that can easily be done with all these 
+newAPI s so line is an incredible new 
+new release so how are wegoing to get 
+it well inthe past one thing every 
+versionof Mac OS 10 is shared in common 
+isit came on an optical disk no more 
+now line we available only in the Mac 
+App Store 
+and that allows usto make it the 
+easiest upgrade you have ever seen when 
+it's ready you'll go intothe Mac App 
+Store and you'll see a page there where 
+you can readabout it see screenshots 
+read reviews when you're ready clickbuy 
+and it downloads right onto your Mac and 
+starts the upgradeprocess right there 
+so it's on the Mac App Store to be about 
+as a single HD movie that you might
+downloadit installs right in place no 
+more rebooting from anoptical disk and 
+because it's partof the Mac apps from 
+the Mac App Store rules it follows the 
+same rules when you purchase ityou can 
+useit on all of your personal 
+authorized Mac's you have to buy
+multiplecopies that's lying 
+I know what you're thinking whatshould 
+we chargefor this but what would you 
+charge in the past most major leases of 
+Mac OS10 have been one hundred and 
+twenty nine dollars and I think there's 
+a lot herefor $129 but we love it so 
+much that we want to make it available 
+toeven more people so we're going to 
+price it at just $29.99 
+I was hoping you'regonna like that so 
+when doyou all get your hands on it 
+here at theconference we're gonna have 
+a Developer Previewthe latest developer 
+preview available today for you to 
+downloadand take advantage of 
+everything you've seen up here and for 
+customersone will be available in July 
+so very very soon coming in July so that 
+islion that's the first four new 
+products we wanted to tell you about
+today the nextproduct we're going to 
+talk aboutis iOS 5 and to do that I'd 
+liketo invite up Scott Forstall 
+welcome so I'm here to tellyou about 
+iOSfive before I get into the cool 
+stuff let me give you a quick update on 
+iOSas you know iOS powers the iPhone 
+theiPad and the iPod Touch and to date 
+we have soldwait for it over two 
+hundred million iOS devices 
+and that makes iOS the number one mobile
+operating system with more than 44 
+percent at forty four percent of the 
+market now the latestaddition to the 
+iOS family is the iPad 2which is an 
+incredible producteven thinner and 
+lighterthan the original it comes in 
+black andwhite that has cameras on the 
+front and back it is an amazing product 
+and our customers just couldn't wait to 
+get their handson it or else they'd 
+actually did have to wait to get their 
+hands on it 
+in the firstfourteen months we have 
+already sold more than 25 million iPads 
+we createda whole new category of 
+device with the iPad and have sold more 
+than 25 million with the iPad to joins 
+theiPhone and the iPod Touch for an 
+incredible lineupof iOS devices we've 
+got some great stores to go alongwith 
+these as well
+I like the iTunesmusic store we've 
+already soldmore than 15 billion songs 
+fromthe iTunes music store this course 
+makes it the number oneretailer of 
+music in the world 
+next is the iBook storeyou know we 
+launched the iBook store justa little 
+more than a yearago already all six 
+major publishers have signed upand are 
+providingbooks to the bookstore our 
+customers loveit 
+our customers have downloaded more than 
+there's theApp Store now the size and 
+momentum of the App Store is really hard 
+to fathom there are currently more than 
+more than90 thousand of these were made 
+specifically forthe iPad it takes full 
+advantage of the large touchscreen 
+display and they make the iPad a better 
+productso we'd like to thank our 
+developers for these great apps
+now ourcustomers love it our customers 
+havedownloaded more than 14 billion 
+apps from theApp Store and that's in 
+lessthan three years it's amazing 
+now our developers are being well
+rewardedfor this apples so far has paid 
+out more than two and a half billion 
+dollarsto developers building apps for 
+the App Store thank you 
+now theseapps as you know cover every 
+genre imaginablethere's great travel 
+apps like this walking tour from Lonely
+Planet they're incredibly addictive
+games I'd say evenmind controlling the 
+addictive games like tiny wingsgreat 
+entertainment titles like HBO GO which 
+lets you takeHBO wherever you are and 
+you can watch it right on your iPad 
+they're deep apps like mobile mem which 
+allow physicians tolook at CT scans and 
+PET scansright on their iPad and this 
+has been fda-approved this next one from 
+Jepsen's been FAA approvedand it allows 
+pilots to look at the charts andthe 
+mapsfor airports around the world right 
+on their iPad and there's great business
+apps outthere like WebEx which allows 
+you tohave a multi-party video 
+conferenceand really hold a virtual 
+meeting so some great apps outthere for 
+our stores we have more than 225 million 
+accountsall with credit cards and 
+one-click purchasing to make it really
+easyfor our customers to find what they 
+wantpurchase it and download it 
+directly to their device these stores go
+with an incredible lineupof iOS devices 
+let's talk about thefuture of iOS and 
+that is iOS 5
+iOS 5 is a major releasethis is 
+incrediblefor our developers and for 
+our customers 
+for developers there are more than 1500 
+new api's and some great enhancementsto 
+our toolsfor our for our users there 
+morethan 200 new features let me go 
+aheadand walk you through ten now 
+number one notifications
+I'm sure you'reall familiar with 
+notifications we look something like
+thisit looks best when giants are on 
+top soyou get scoring alerts you have 
+alerts to pop up theyget into audio 
+they can also badgethe home screen 
+icons well these have been massively 
+popular in fact we have alreadypushed 
+more than ahundred billion push 
+notificationsis scaled beautifully 
+we've heardfrom our customers that are 
+receivingso money they'd like a better 
+UI to get them and we agree and so we
+have builtsomething that solves some of 
+theproblems in the current one 
+currently when you get a notificationit 
+interrupts you if you're playing a game
+you get a modal alert you have to deal 
+with that mode alert before you can go 
+onalso in the lock screen you get this 
+nice list ofthings that have happened 
+while your phone's been locked but when 
+you unlock itthat list isn't persistent 
+there's no way to get back to that list 
+and go through those notifications well 
+we have designed a solution thatsolves 
+those issuesand goes far beyond it and 
+we call it notification center
+Notification Center is a single place
+which combines together all of your 
+notifications you can get to it at any 
+time from anywhere on your iPhone or 
+iPad oriPod touch just by swiping your 
+finger downfrom the top to reveal the 
+Notification Center
+so we thinkit is beautiful it has your 
+missed callsand voicemails text 
+messages mail messages scoringalerts 
+Facebook updatesany push notifications 
+thatcome from the App Store all end up 
+righthere in Notification Center and 
+we've evenadded stocks and weather 
+right up topnow we didn't stop there 
+notifications are no longer interrupting
+so now if you're playing a game and 
+someonesends you say a text message a 
+nice animationfrom the top it's right 
+thereyou can keep on playing your game 
+andit'll automatically dismiss itself 
+you could have just tapped on it who 
+take you to that app but doesn't matter 
+becauseyou can always get back to it 
+any time just by swiping your finger 
+downfrom the top we've also improved 
+thelock screen you can see more 
+information for notifications here and 
+oneof my favorite features is for any 
+one of the notifications in the lock 
+screenyou can just slide your finger 
+acrossit and it takes you directly to 
+the app that sent the notification let 
+me go aheadand just show this to you 
+now so I've got a phone here runningiOS 
+just going to swipe my finger right 
+across that text message and it takes me 
+directly tothe messages app and right 
+into the conversation it's really 
+convenientnow to get to the 
+Notification Center just swipe my finger
+down from the top and there it is 
+dismiss it by swiping up really nice 
+animationyou can see that we're still 
+in winter here in San Francisco I get 
+allof my messages here so text messages 
+and scoring alertsdown at the bottom 
+here I have some alerts from mlb.com at 
+batif I tap on that X button I can just 
+go aheadand clear that out if I see 
+another notification like the Facebook 
+oneI tap on it takes me directly to the 
+Facebook app so it's really convenient
+and at any time again swipe down from 
+the top andyou get 
+back toNotification Center and that is 
+Notification Center
+number two is newsstandyou know I love 
+reading newspapersand magazines right 
+on my iphone my iPad and recently we 
+added subscriptionsthis makes it easier 
+for you get all the new issues without 
+missing anythingalready 
+most of the major publishersof 
+magazinesand many of newspapers have 
+signed up tosupport subscriptions these 
+are incredible titlesthings like 
+NationalGeographic and spin to great 
+music magazines and of course when you
+read these on your iPad you getaudio 
+and video in addition to all the 
+articles Vanity Fair science magazines 
+like Popular Mechanics andpopular 
+science Esquire GQ fashion magazines
+like ElleThe Oprah Magazine tech 
+magazines like Wired and automobile
+magazines and sports magazinesThe New 
+Yorker and newspapers new ones like the 
+daily butalso the New York Times the 
+SanFrancisco Chronicle Daily Telegraph 
+andother international papers and we've 
+now created a single place rightin the 
+app store thatcombines all of these 
+newspaper and magazinesso you can find 
+themall in one place when you purchase 
+them they're automatically downloaded
+and placed in the newsstandit's a new 
+place right onthe home screen looks 
+like it's beautifulnews rack in 
+addition to this we do background
+downloads
+so if a newissue comes out say of a 
+newspaperwhile you're sleeping when you 
+wake upand pick up your iPad that new 
+newspaperis already there ready for you 
+to read it and you can read it offline 
+on topof this we set the cover to be 
+the front page of the new newspaperand 
+we'll set it to be the cover of the new 
+magazine for magazines 
+so that is newsstand next is Twitter now
+as I'm sureeveryone's familiar Twitter 
+is an incredibly popular service people
+send more thana billion tweets per week 
+andwe hear from a lot of our customers 
+on iPhoneand iPad and iPod touch that 
+they love Twitterand so we want to make 
+it eveneasier for all of our customers 
+to use Twitter on iOS products we're 
+doing a numberof things for this first 
+we're addingsingle sign-on so now when 
+you goto the Settings app its built in 
+on the iPhone or iPad you can enter your 
+username and password and now you're 
+configured for Twitter for any app you
+download off the App Store it'll just 
+say can Iuse your credentials when you 
+say yes you're logged in you don'tneed 
+to relogin every single time so single 
+sign-on
+next we've integrated Twitter in with
+manyof our apps like camera and photos 
+so now if you're at a concert you take a 
+photoand you want to tweet that photo 
+just tap on the action button it's a new 
+option tweetand it brings up this 
+beautiful tweet sheet gives you a nice
+thumbnail of the photo give you a 
+countdown ofhow many characters you 
+have left to type and youcan even 
+optionally add your locationtap on that 
+and then you've tweeted the photo it's 
+that simple in addition to tweetingfrom 
+photos and camera you can tweet articles
+from Safari websites you can tweet 
+videos from YouTube and youcan tweet 
+about businesses or locations for maps 
+beyond all of this we added integration 
+with contacts now you might havea lot 
+of contacts that don't have photos but 
+Twitter may have photos for those people
+and soyou can use Twitter to 
+automaticallyupdate the photos in your 
+contact list and even the at user name 
+for your friendsand that's Twitter 
+integration throughout the OS
+next isSafari 
+you knowSafari is the best mobile web 
+browser outthere it's also the most 
+popular in fact nearly two-thirds of all 
+mobileweb browsing is done on Safari 
+beyond this we took apples Safari engine 
+and open sourced it and it's the basis
+of all web browsing onAndroid so Safari 
+engine is the basisof more than 90% of 
+all webbrowsing on mobile devices well 
+iOS5 we're making Safari even better 
+we've got some great features the first 
+isreader Safari reader becomes 
+available up here as a new button when 
+you're reading a storyon a website if 
+youjust tap on that button we take the 
+story you're reading and make it front 
+andcenter we get rid of all the 
+distractions set the font size rights 
+and even if it's amulti-page story so 
+you'd haveto tap through multiple web 
+pages normally to get to itwe put in a 
+singlescrolling story it's really 
+convenient 
+on topof that you can out email the 
+contents ofthe story before you can 
+just email the link but now when you 
+email youget the link plus the contents 
+in your compose window and all and all 
+of this works really well on the iPad it 
+worksgreat on the iPhone as well it's a 
+perfect sizefor it sets the font size 
+right it's really nice to read stories 
+so that's the Faro reader the second one 
+is readinglists reading lists is a 
+simple and convenientway for you to 
+quickly save a story to read it later 
+just put it in the reading list and when 
+you add an item toreading list it gets 
+addedto the reading list on all of your 
+iOSdevices and even the reading list on 
+Safari on Macand Safari on Windows 
+so if you don't have timeto finish it 
+here on the iPad you can finish reading 
+it lateron your iPhone and the next 
+feature istabbed browsing we have added 
+fulltab browsing and Safari on the iPad 
+and you know letme just show it to you 
+alright so here I have iPad running iOS 
+thing you'llsee with tab browsing is it 
+is lightningfast to switch between 
+Windows now just tap onit and you're 
+there great now I'mon the DP review 
+site which is a fantasticreview site 
+for camerasand they have really 
+extensive reviews in fact youdon't have 
+to tap through many manypages to read 
+the whole review but I like this one 
+here it's a 20 pages long well if I tap 
+the readerbutton here it loads the 
+entire story up andreader now I can 
+just scroll through it gets rid of all 
+thedistractions lets me concentrate 
+justin the content that is reader 
+you even see thatwhen it goes between 
+pages here where you would have had to 
+you know tap to say next page it 
+automaticallygives you a little page 
+breakso you know when it's going 
+throughthose pages now let's say if I 
+don't have time to finish the story 
+right now I can just tap the bookmarks 
+bar item and here I have reading list I 
+tap plus and now it's added this to my
+reading list and again I can go finish 
+this onMac on you know on Safari on my 
+Mac orany of my other iOS devices it's 
+greatand if I really like this and I 
+want totweet about it let me show you 
+the Twitter integrationwhile we're here 
+by tap tweet brings up the tweet sheet
+we do completionsof a hit I have a 
+friend Garydone so I hit at G 
+automatically fills in the nametap that 
+and say you know I like this one and I 
+canoptionally add my location tap send 
+andit's tweeted it's that easy so some 
+really great Safari enhancements and 
+Twitter integration throughout
+all right next up these are reminders 
+youknow all of us are constantly 
+creating lists of things list of things 
+todo list of things to buy like a 
+grocery listsome of them have a place 
+associated likedon't forget to walk the 
+dog when I get homeand some have a time 
+associated say buy concert tickets
+Monday at 10:00 a.m. so that's when they 
+go on salewouldn't be great if you get 
+rid of all these scraps of paper and 
+storeall this on your phone but beyond 
+that if your phoneactually reminded you 
+to do things as opposed to just 
+statically keeping a list of things well 
+that's exactlywhat the reminders app 
+does on the reminders app youcan store 
+listsof things multiple lists of things 
+for a trip to San Francisco or birthday 
+party or a grocerylist you can store 
+dates associated with these reminders so 
+you'll be remindedon that date you can 
+also sign location this isreally cool I 
+could set upa reminder to say remind me 
+to call my wife when I leave the 
+conventiontoday and it'll set a 
+geofence
+up aroundMoscone Center and so when I 
+getin my car to leave it will pop up 
+and takeall 
+it solves theproblem of unliving right 
+now I promisecall on the car you can of 
+course search throughall your reminders 
+and reminders will syncwith iCal on the 
+Mac usingCalDAV and even without look 
+on Windows usingexchange and that is 
+reminders
+next is camerayou know the iPhone 4 is 
+widelyregarded as having one of the 
+best cameras on a mobile phone it's also 
+one of the most popular in factif you 
+look at cameras used to take photos and
+then post them toFlickr now this is all 
+cameras not just cameras on phonesyou 
+see where the iPhone 4 is it is already
+by far the most popular camera on a 
+phone to take photos and it very soon 
+will bethe most popular camera overall 
+we want to make using the camera even 
+betterand that's what we're doing the 
+firstthing we're doing is making it way 
+faster just get in and takea photo 
+so now ifthere's some moment happening 
+your kids doing something really cute 
+youwant to capture it you double click 
+that home button you get a new camera 
+iconwhen you tap on that camera icon 
+you're brought directly and immediately 
+to the camera and you're ready to take a 
+photonow what's really cool about this 
+iseven if you have a passcode set we'll 
+take you rightinto take a new photo 
+we'll protect it and you can't see any 
+previous photos you'vetaken or anything 
+elsein the phone without typing your 
+passcode being start taking a passcodea 
+picture immediatelyand you can even use 
+thevolume up button now to click 
+that sound I think people say use the 
+shutter buttonto turn your volume up so 
+in additionto this we've added optional 
+gridlinesso you can use the rule of 
+thirds to compose your photo or line it 
+up you can now pinch to zoom right 
+within the cameraand if you hold your 
+finger over part of the scene now we'll 
+set the auto exposureand auto focus 
+lockyou can even move it around you 
+know stick to that 
+now this is a reallyadvanced feature 
+when we broughtit to the iPhone and 
+we've made it really easy for everyone 
+to use 
+now nextonce you've taken your great 
+photosyou can now edit them right on 
+your iPhone and your iPad you do things 
+like crop and rotate redeye reductionso 
+if you'vetaken the photo at left where 
+the flash has caused aredeye you can 
+automatically remove that redeye
+righton your iPhone or iPad and we even 
+brought over theone-click enhance that 
+we pioneeredin iPhoto on the Mac and it 
+broughtthat to iOS so you can see when 
+you applied one tapenhance to the right 
+how the color tones look so much nicer 
+how it pulls detail out of shadow it's 
+really niceso some great photo editing 
+features and reallynice camera 
+enhancements
+next ismale now male is one of the most 
+used applicationson both the iPhone 
+iPod andiPod Touch iPad and iPod Touch 
+and we're making it even better in iOS 5 
+we're adding rich text formatting so you 
+can set thingsas bold italic and 
+underline you can control the 
+indentation so you're forwarding
+something you can uh ninten it's or 
+further indent it you can now dragthe 
+addresses betweentwo CC and BCC don't 
+have to retypethem again we've added 
+support for flagging so you can flag and 
+unplug this next one has been a
+incredibly popular requestin addition 
+to searchingfrom two and subject you 
+can searchthe entire contents of all 
+your messagesboth the messages on your 
+phone and all the messages back on the 
+mailserver so search the entire 
+contents ofyour messages for the iPad 
+we added areally nice swipe to inbox 
+gesture so it makes it really nice to 
+use this in portrait so you swipe it on
+tap on something swipe it off and with 
+every release ofIowa spot or is we 
+continueto add more support for our 
+enterprisecustomers and one example of 
+that in iOS 5 is we added support for 
+s/mime so now I think we've done a 
+reallynice job of this now if you have 
+the certificateof someone else you 
+automatically get this lock icon right
+in the addressing field just to show you
+this willbe encrypted 
+when sent to the other person let me 
+just go ahead and give you a demo of few 
+ofthese features now alright so first I 
+can show you a simple gesture I just 
+pull on theinbox right from there so 
+anywhereyou are when your porch adjust 
+pull iton you have to go hunt up and 
+find the rightbutton for it you can see 
+we're flagging here so I can tap on that 
+flagged messagea one other feature 
+we've added is a builtin dictionary 
+throughout the OS as a service now so 
+before we had a dictionary inthe iBooks 
+app but wenow brought that 
+to the entire OS so all apps from the 
+App Store can use it so here if I press 
+downlets and lychees I don't know what 
+thatis let's say I get a define in 
+addition to copy tap define there it is
+built-in dictionary it's great if I say 
+respond to thismessage again I can grab 
+oneof these addresses now just drag it 
+to BCC dragged itto and rearrange it 
+it'sreally nice and easy as one more 
+feature I want to showyou it's actually 
+a system-wide feature having to do with 
+the keyboardwhen we released the 
+original iPhone we revolutionized the 
+way people would tight onmulti-touch 
+displays and we keep on challenging
+ourselvesto make that even better we 
+have a new variantof the keyboard in 
+iOS 5 for theiPad which we think people 
+who like to type with their thumbs while 
+holding it are reallygoing to like in 
+thebottom right you see the keyboard 
+button and now has some grab handlesif 
+I justtake those and drag it up it 
+splits itinto two 
+so what it does is it moves the keys 
+closer to your thumbs on theside so you 
+can you can put it wherever you want 
+it's really nice and it's persistent for 
+every app in the systemit just stays 
+whereyou put it 
+we want to put it back downjust press 
+andhold to dock and merge it goes back 
+down to the bottom so even a split 
+keyboard
+that'smail number eight PC free 
+so we built these incredible devicesthe 
+iPhonethe iPad and people get them home 
+they openup their box and I see this I 
+say well what now we're living in a post 
+PC world in fact especially with the 
+iPad we're offering in the post PC world
+we have a lotof customers coming to us 
+andsaying I want to buy an iPad as my 
+only device I don't know in a computer I 
+wantto buy an iPhone is my only device 
+my only actuallyinternet access for 
+where I livewill be my iPhone 
+we know we're selling into a lotof 
+places where the households just don't 
+have computersand they want to buy an 
+iOSdevices their only device and that's 
+exactlywhat we're going to support an 
+iOS 5now you take your iPhone out of 
+the box insteadof seeing this you're 
+goingto see this 
+you can now set up and activate your
+device right on the device and you are 
+readyto go it's that easy and of course 
+there's someother things we had to do 
+tomake this possible software updates 
+are now over-the-air 
+so you no longerneed to go and plug 
+into acomputer just to update your 
+software and of course they're now Delta 
+updates so instead ofdownloading the 
+entire OS you just download what's 
+changednow the next thing we did is we 
+we looked at all ofthe apps in the 
+iPhone iPad iPod touch and asked 
+ourselves what are thereasons that 
+people go back to a computer today and 
+let's add that functionalityright to 
+iOSso for instance you have to go back 
+to a computerto create calendars or 
+delete calendarsyou can now create and 
+delete calendarsright from iOS you saw 
+for photos we've added really 
+significant editing functionality in
+there so you cancrop rotate one tap 
+enhance redeye reductionright from 
+withinyour iOS device even in mail now 
+you can create mailboxes and delete 
+mailboxes right fromiOS so we looked at 
+all ofthe apps in the i phone and the 
+ipad added that functionality so now if 
+youwant to cut the cord you can 
+next is gamecenteriOS is the most 
+popular gamingplatform on the planet 
+there are more than a hundred thousand 
+game and entertainment titlesin the App 
+Storeand so about nine months ago we 
+launched Game Center and we did it to 
+make it even easier for people to find 
+playersto play games against and also 
+to makeit easy for you to compare how 
+you're doingagainst your friends well 
+in justnine months we have 50 million 
+Game Center users now to put that into 
+perspectiveXbox Live has been around 
+forabout eight years and they have 
+around 30 millionusers so Game Center 
+is verypopular and we're making it even 
+better in iOS 5 to make it more fun and 
+social we're addingphotos you can see 
+photos of your friends change your 
+photos you cannow compare yourself 
+against yourfriends using achievement 
+pointsper game you can see friends of 
+friendsas well you also will get 
+recommendedfriends that might be great 
+people to place on the games that you 
+like
+we've also added gamerecommendations so 
+there might be somereally great games 
+outthere maybe they're new that you 
+don't knowabout and we'll help you 
+discover those once you'vediscovered a 
+game you likeyou can purchase and 
+downloadit directly from Game Center 
+now this is great both for our customers 
+andfor our developers another thing 
+we've done forour developers is we've 
+added supportfor turn-based games right 
+in to the OS 
+there are some great turn-based games
+out therelike Scrabble but the 
+developer had to do all thework for 
+that and now that's supported right out 
+ofthe box in iOS 5 so some really nice 
+enhancements toGame Center 
+next is iMessage nowI believe we have 
+the best messaging client out there on 
+the iPhoneit works tremendously well to 
+send textmessages and photos and videos 
+and our customerslove it our iPhone 
+customers but whatabout our iPad 
+customers and our iPodTouch customers 
+they've been asking us fora messaging 
+solutionand so in iOS 5 we're launching 
+a new messaging service betweenall iOS 
+and we call it iMessage soI message 
+supports the iPhonethe iPad and the 
+iPod touch it does everything you've 
+come to expectfrom our messaging app on 
+the iPhoneso you can send text messages 
+photos videos send contacts do group
+messaging everything you come to expect
+and we've added some really nice new 
+features things like delivery receipts
+so you can see if it's been delivered to 
+the other person's device optional read 
+receiptsso you can see if it's been 
+read this is why myfavorite typing 
+indication so you can tell now if
+someone starts typing and they're 
+responding toyou you know you're about 
+to get that message I messages are 
+pushed to all your devicesso if you 
+start a conversation onyour iPad and 
+later pick up youriPhone you can pick 
+up right where you left off with all the 
+context of thatconversation to date is 
+supported over both 3G and Wi-Fiand 
+everything is sent encryptedover the 
+where over there over the air and I like 
+to just giveyou a demo of iMessage now 
+to do so I also like toinvite up jaws 
+vice president of product marketing to 
+helpme hey does Scott thanks for having 
+meabsolutely you don't mind I'm a play 
+game though uhplaying again okay try 
+not to bother me right here frolic 
+marketing uh he's on the iPhone on the 
+Left I'm on my iPad on the right hand 
+side I go ahead and launch messages here 
+so here I havea conversation go with 
+Charles normally we don't stand next to 
+eachother we have these conversations 
+so most I've talked to you all week 
+let's grab lunch after the show I know 
+okay so when I send this to them you'll 
+notice ashe plays the game it comes in 
+right at the top and you can keep on 
+playing thegame so it's not 
+interrupting him as does his lovely job 
+playingI'm on a roll don't bother me 
+butat any time he can get right back to 
+that message
+Oh at anytime I think this might be good 
+timeha ha that's so a dick just by 
+pullingdowntown that takes him right to 
+thisnow as he starts typing see on my 
+side where there's the three dots of the
+balloon that lets me knowhe's currently 
+responding well check maybe some other 
+messageswhile he's doing so so then 
+when he sendsthe message you see where 
+it's cents he gets a little delivered it 
+already knows it's been deliveredright 
+to my device and when I tap on his 
+message it sends a read receipt saying 
+rad 11:15 a.m. he knows I've read it so 
+readreceipts three 
+we can also sendhigh-quality photos and 
+videos let mego ahead and choose a 
+photo herealright maybe we have a 
+picnic by the bridgeoh that's so sweet 
+send it a littlepicture again you can 
+tell from the dotsand his side that I'm 
+composing it right now send it off and 
+again we go over Wi-Fi as well as 3G 
+sends it overagain it gets it nice high 
+quality and the entire transmission is 
+encryptedover-the-air and again I'm on 
+my iPad so it supports iPad iPod Touch 
+andiPhone thanks jealous 
+can't wait forlunch 
+soI message and we're actually building 
+this on the push notification system 
+we've built so we know how to scale this
+we have incredible features herein iOS 
+reallynice newsstand makes it even 
+better to read your newspapers and 
+magazinesright on your iPad or iPhone 
+great Twitter integration a new 
+reminders app you can bePC free if you 
+want and the new iMessage application 
+and these arejust 10 of the more than 
+something for everyone in iOS 5 there's 
+other thingslike airplay mirroring you 
+can now mirror your entire iPadto write 
+to your televisionwirelessly using 
+Apple TV 
+Wi-Fisync to iTunes before you had 
+exactly beforebefore you had to go back 
+and plug into your computer to sync and 
+now whenyou are charging at night let's 
+say your iOS device will automatically
+findiTunes over Wi-Fi and sync with it 
+and beforeit sinks it'll back itself up 
+so you automaticallyget backed up every 
+singleday there's also some really nice 
+newmultitasking gestures so you can 
+just flick right between your apps it's 
+really nice we're not only is there's 
+something for every one of our customers 
+there's something for every one of our
+developers some great new development
+tools including significant enhancements
+toxcode instruments in the simulator 
+even core imagewe brought over the 
+powerful core imageframe works with Mac 
+OS10 - iOS this allows developers to do 
+complex imageoperations like redeye 
+reduction face detectionright from 
+within their apps so you're asking 
+yourself when are you getting it and the 
+answer is we're giving a developer seed 
+to you today 
+this is gonna begreat for the 
+conference as you learn aboutall the 
+newapi's than all the sessions this 
+week you can go and use those api's 
+immediately using your seed and iOS5 
+will ship to allof our customers this 
+fall
+iOS 5 will support the same devicesthat 
+we supported with our last software
+update so that's the iPhone 3GS and
+iPhone4 all the iPads iPad and iPad 2 
+and the third and fourth generation iPod 
+Touch and that is iOS 5 
+and that is the second ofthe software 
+products we wantto tell you about today 
+to tell you aboutthe third I like to 
+turn it backover to Steve 
+so you like everything so far well I'll 
+trynot to blow it so I get to talk 
+about iCloudwe've been working on this 
+for sometime now and we're really 
+excitedabout it about ten years ago we 
+had one of our most important insights 
+and that was that the PC was going to 
+become the digital hub foryour digital 
+life what does that mean well it meant 
+thatthat's where you were going to put 
+your digital photos where else wereyou 
+going toput them your digital video off 
+your digital camcorder and of course
+your music right you were going to 
+acquire it in the device or potentially
+on your Mac and you were going to
+basically sync it tothe Mac and 
+everything was goingto work fine and it 
+didfor the better part of 10 years but 
+it's broken down in the last few years 
+why well because the devices have 
+changedthey now all have music they now 
+all have photos they now all have video
+and so if I acquire a song I buy it 
+righton my iPhone I want to get that to 
+my other devicesright I pick up my iPad 
+it doesn't havethat song on it so I 
+have tosync my iphone to my Mac then I 
+have to sync myother devices to the Mac 
+to getthat song but then they've 
+deposited some photoson the Mac so I 
+have to sync the iPhone again with the
+Mac to get thosephotos and keeping 
+these devices in syncis driving us 
+crazy
+so we've got a great solutionfor this 
+problem and we think this solution is 
+our nextbig insight which is we're 
+going to demote the PC in theMac to 
+just be a device justlike an iPhone an 
+iPador an iPod touch and we're going to 
+move the digital hub the center of your
+digitallife into the cloud because all 
+these new devices have communications
+built into them they can all talk to the
+cloud whenever they wantand so now if I 
+getsomething on my iPhone it sends up 
+to the cloud immediatelylet's say I 
+take some pictureswith it 
+those pictures are inthe cloud and they 
+are nowpushed down to my devices 
+completely automatically and now 
+everything isin sync with me not even 
+having to think about it I don't even 
+have to take thedevices out of my 
+pocketI don't have to be near my Mac or 
+PCnow some people think the cloud is 
+just a hard disk in the sky right and 
+you take a bunchof stuff and you put it 
+in yourDropbox or your I disk or 
+whatever and it transfers it up to the
+cloudand stores and then you drag 
+whateveryou want back out on your other 
+devices we think it's way morethan that 
+and we call it iCloud now iCloud stores 
+your content inthe cloud and wirelessly 
+pushes it to all yourdevices so it 
+automatically uploadsit stores it and 
+automatically pushesit to all your 
+other devices but also it's completely 
+integrated with your apps and so 
+everythinghappens automatically and 
+there's nothing new tolearn it just all 
+works
+it just works 
+now you might askwhy should I believe 
+them they're the ones thatbrought me 
+mobile me it wasn't our finest hour let 
+mejust say that but we learned a lot 
+nowthe three core apps in Mobile me or 
+contacts calendar and mail three things
+we'd obviouslylike kept up to date 
+we've thrown them away we've reacted and 
+rewritten them from the ground up to be
+iCloud apps and we've put them on all of 
+ourdevices so as an example in contacts 
+when I make anew contact on my iPhone 
+it's automatically brought up to the
+cloud where it's storedon the cloud 
+right the truth is on the cloud and then 
+it's automatically pushed downto my 
+other devicesso they're all in sync 
+it's that easy 
+I just update a contacton my iPhone and 
+don't eventhink about it and that 
+contact is updated on all my other
+devices and if I change it on any device 
+it's updated on all devices wirelessly 
+automatically withoutme doing a thing 
+so that's contacts here's calendars
+works much thesame way I make a new 
+calendar event on my iPhone it's stored
+inthe cloud and it's pushed to my other 
+devices pretty cool 
+we've also added calendar sharing so as
+an example ifI'm sharing a few 
+calendars with my wife school andsoccer 
+calendars let's say right and I add a
+newcalendar for a teacher parent 
+conference on my phone it's again
+automatically pushed up tothe cloud and 
+automaticallypush to my wife's iPhone 
+if she adds
+the key adds an appointment fora soccer 
+game againgoes up to the cloud and back 
+to my iPhoneit's that simple 
+and so calendars has it stores your
+calendars in the cloudchanges on any 
+deviceor push to all your devices and 
+we have shared calendarsand we think 
+you're goingto love the new calendars 
+it just works
+and then we have mail mailis in the 
+bestshape of all but it's even better 
+nowwe give you a mail accountant at me 
+calm your new messages againour push to 
+all your devicesand like will use 
+through your inboxand folders are all 
+kept up to dateon all devices 
+so that's mail and no ads
+we build productsthat we want for 
+ourselvestoo and we just don't want to 
+ads so wecan't get there so these are 
+the three appsthat form the core of 
+mobile me we used to sell them for a 
+subscription price of $99 annually as of
+today this product ceases to existand 
+thosethree apps are 
+but we didn't stop therewe've got three 
+more apps that we've broughtinto the 
+iCloud universe the first is of course 
+the App Store the App Store you've 
+bought a lotof apps so far and you can 
+buy them of coursedirectly on your 
+devices
+maybe the app youwant isn't on the 
+device you've got with youso for all 
+your purchase historynow 
+you can see it onall your devices even 
+if the apps not there and we've added
+this button here which is download from 
+the cloudand if you want that app on 
+that device you just push that button 
+and that app is automatically sent to 
+that device right and there's no extra 
+charge
+no extra charge now we've done that for 
+your purchase history what about four 
+devices you buy in the future well four 
+deviceswhen you buy them in the future 
+you want to buy Yelp let's say the cloud 
+downloads it to all your devicesagain 
+at no extra chargeall automatically 
+so that's what we'redoing with the App 
+Store iBooks same thing you've got your 
+purchase historyof all the books you 
+bought on any device you want to get it 
+on your iPhone se just push the button 
+it downloads to that device when you buy 
+a new iBooklet's say you want to buy 
+this book here thewave it downloads it 
+to all yourdevices now and if you're 
+readingit on one device let's say 
+you're readingit on your iPad and 
+you've just got to run you get to a page 
+youbookmark that page that bookmark is 
+sentup to the cloud and stored and 
+again push to all yourother devices so 
+maybe you can read anotherthe rest of 
+the chapter as an exampleon the train 
+towork it all just works 
+and now back up we talked about beingPC 
+freeScott talked about how you can 
+wirelesslybackup your devices daily to 
+your PC or yourMac but let's do it to 
+the cloud as well for thosepeople that 
+want to be completely PC free so we've 
+addedwireless backup to the cloud and 
+basicallyonce daily we're going to 
+backup a lot of your important contents
+to the cloud if you ever get a new phone
+and have to replace a phone you 
+literally type in your Apple ID and 
+password and everything will be loaded 
+onto that phone automatically and wires 
+so we automatically do daily backups to
+iCloud over Wi-Fi
+webackup your purchase music apps and 
+books we backup your camera roll with 
+your photos and videos we backup your
+device settingsand we backup your app 
+data all to the cloud so that isbackup 
+and those are three other apps that come 
+with iCloud but we couldn't stop there
+and so we have a final three apps that 
+areamazing the most inventive part of 
+iCloudI think and I'd love to tell you 
+about the first one is documents in the 
+cloud so if I'm on my iPad and I create 
+a page as documentsright I create a 
+Pages documentand it automatically 
+uploadsit and stores it in the cloud 
+when I close that document completely 
+automaticallyand it then pushes it to 
+all the devicesthat I have pages on so 
+I can get the document between my
+devices and we have put that into Pages 
+Numbers and Keynoteas a matter of fact 
+the versions wejust released last week 
+have this in there and to demonstrate 
+what this is like with I work I'd love 
+to invite Roger Rosner who's our VP of I 
+work up to giveus a quick demo 
+thank you Steve
+all right let's take a look at how I 
+work andiCloud will work together let's 
+say you'reworking on a keynote 
+presentationon your iPad making a 
+beautiful presentation with all those 
+awesome keynote graphic effects and 
+animations but you're awayfrom home you 
+didn'tbring your iPad with you and you 
+runinto somebody who wants to see your 
+presentationwell the good news is last 
+week we shipped I work for iPhone and 
+evenbetter for anybody who bought and 
+iWork app for your iPad you can download 
+that app for your iPhone at no 
+additional chargeso let's fire up 
+keynote onthis phone this is the first 
+time we've run ithere so it's going to 
+say hithen it's going to say do you 
+want to use iCloud we say yes and 
+immediatelyit sees all your keynote 
+presentations you've been working onin 
+the cloud and starts to download them in 
+thebackground to your iPhone so I'll 
+openthis one we were just looking at 
+and as you cansee it's all there 
+it even remembered what slide we were
+looking at and if I wantto I can just 
+hit play play it right on my iPhone and 
+I'd put exactly zero effort into getting 
+thatfile over here pretty 
+of course all the iWork appsuse iCloud 
+so let's take a look at pagesand you 
+know what imagine you're out and you
+you're inspiredto make some changes to 
+a document you've been working on so I'm 
+going to move this graphic over here 
+maybe Ijust took a photograph that I 
+thinkwould be great to spruce up my 
+cover page so I'll go tomy camera roll 
+I'd serve my graphic 
+here's alignment guides to place it and
+I'm doneand I stick the phone in my 
+pocket and I forget about it and in the 
+backgroundiCloud is grabbing all those 
+changes and then immediately pushing 
+them backdown to my iPad so when I get 
+home 
+pick up theiPad fire up pages you can 
+see in the upper left my document 
+thumbnailsalready been updated 
+and there are all my editsabsolutely no 
+effort on my part and that is how I work 
+works with iCloudI think you're going 
+to like it
+thank you thanks Roger 
+and documents in the cloud really
+completesour iOS document storage story 
+working for 10 years to get rid of the 
+filesystem so the user didn't have to 
+worry about it when you try to teach
+teach somebody how to use aMac the 
+easiest of allcomputers to use 
+everything's going along fine until you 
+hitthe file system and then the 
+difficulty is staggering for most people
+so we've made it on the iOS devices to 
+where you don'tever have to think about 
+it the app manages the presentation of 
+its own documents just like mail manages
+the presentation of its own messagesbut 
+the piece thatwe weren't finished with 
+was how do wemove those documents 
+around to different devices and 
+documents in the cloudsolves that 
+problem for us apps canstore documents 
+in iCloudiCloud pushes those documents 
+toa user's devices automatically the 
+documents update onall devices when 
+changed on any device and we are
+releasingAPI 
+so
+it's reallyeasy to tie your apps into 
+iCloud's storage system and again you 
+canhave complex documents apps like 
+pagesor we've got another storage 
+facility for key value dataso as an 
+example if you've got an app that just 
+track stocks you can just update the key 
+value pairsand we'll store that in the 
+cloudas well so documents and key value 
+data works across all iOS devicesand 
+Macs and PCsto 
+so we think this isgoing to be pretty 
+bigand that is documents in the cloud 
+this next one is maybe my favorite one 
+and it's called Photo Stream and it's 
+goingto bring the cloud to photos how 
+many times havewe taken photos on our 
+iPhone maybe of our kids in the
+afternoon andwanted when we got home to 
+share them on an iPadand have to go 
+through the process of moving them over 
+wouldn't it be great if by the time I 
+gothome they were already there on the 
+iPad well that's what Photo Stream is 
+going to dofor us across all of our 
+devicesso again I take photos on any 
+device puts it in thecamera roll and 
+thatwill be automatically uploaded to 
+the cloud where it's storedand 
+automatically downloaded to all my other 
+devices including in this case a Mac and 
+so I've got my photos onmy iPad just 
+waiting forme when I get home now in 
+additionI can import photos right into 
+iPhoto as anexample on the Mac it'll 
+upload those to the cloud and do exactly 
+the samething with them by pushing them 
+down to all my other devices so it's 
+apps thatI its photos that I take or 
+photosthat I import and we built this 
+right intothe apps I hope you've seen 
+that as we've gone through this we've
+built thisright into the app so there's 
+nothingnew to learn so photo stream on 
+the iPads photo app we've built it right 
+in rightnext to albums we have a button 
+called Photo Stream you push it and 
+you're looking at the photo stream it's 
+that simplethere's not a separate app 
+that youhave to go learn it's right 
+there in yourPhotos app it's right 
+there in your Photos app on youriPhone 
+it's just right therewith all your 
+other albums there you goPhoto Stream 
+on themap on the map we built it right 
+into iPhotoand so it's right there on 
+the side your photo stream and on a PC 
+they don't have aPhotos app so we use 
+the pictures folder rightin addition to 
+that we've even built it in to Apple TV 
+soApple TV Apple TV talks directly over 
+theinternet directly to the photo 
+stream servers doesn't even gothrough 
+your PC talks directlythe photo stream 
+serversso you can watch the photos 
+righton your Apple TV so one of the 
+problems we faced was it will photos are 
+large andwill use up all the memory on 
+your devices 
+there are also large they'll consume
+vast amounts ofstorage in our server 
+farms so we've came up with a great
+scheme we're going to store photos on 
+your deviceswe're going to store the 
+last thousand photosright let's store 
+the lastthousand and any photos you 
+wantto keep permanently just move them 
+into analbum and they'll stay forever 
+but they'll be parading by youthe last 
+thousand photographson your Mac or PC 
+because we have more storage will store 
+allof them you can get rid of them by 
+justdeleting them but we'll store all 
+of them and on the server will store 
+themfor 30 days which is more than 
+enough time for all your devices to 
+connect and automatically download those 
+photos sowe think we've got a great 
+system here that's going to move our 
+photos aroundamong all of our devices 
+evenApple TV so that when I take a 
+photo anywhereI can view it on all my 
+otherdevices we think this is going to 
+be really excitingto demonstrate this 
+I've askedTeddy Q or VP of Internet 
+services to come on up and giveus a 
+demoof photo stream 
+thanks toyou yep so I want to take some 
+photos to start with now I love cars and 
+I happen to have brought one of my 
+favorite ones with me here today and 
+here it is and we're goingto go to our 
+my iPhone and launch the camera app 
+Lightning McQueen is looking good 
+I love the headlightsand now these 
+photos are onmy iPhone but let's go 
+look at my iPad now we've built Photo 
+Stream right into the Photos app so 
+rightnext to albums this photo stream 
+and there is the pictures I just
+I didn't have to learn anythingnew at 
+alland if I want to save them 
+permanentlyon my iPad I can just select 
+them and move themto an existing album 
+or even create a newalbum that's it 
+now these photos aren'tjust on my iPad 
+they're on all of my deviceslet's move 
+over tothe Mac where I've got iPhoto 
+running and we've built againPhoto 
+Stream right in and there are the photos 
+I just took so now when I take a photo 
+on one of my devices they automatically 
+appearon all of my devices without 
+having to do anything at all it's that 
+simple
+and that'sPhoto Stream 
+that wasgood okay not awesome 
+so photos you takeor import upload to 
+iCloud iCloud pushes them to all your
+devices works over Wi-Fi its iCloud 
+storeseach photo for 30 days which is 
+plentyenough time for all the devices 
+to be connected devices store the last 
+thousand photosand again you can just 
+drag themto an album they stay forever 
+and Macs and PCs store all photos so 
+we're really reallypleased with Photo 
+Stream we think you're going to like it 
+a lot
+last butnot least is iTunes in the 
+cloud 
+you know it's the sameold story right 
+about I buy something on myiPhone right 
+wolfand and it's not on my other 
+devices
+I grab myipod and I go to listen to 
+thatsong I bought yesterday on my 
+iPhone it ain't there well the first 
+thing we've done again is for the songs 
+you've already bought we've added a
+purchase button that shows you your
+entire purchase history of all the
+iTunes songs you bought on any device
+you can look at it by all songs or 
+recent songs or you canlook at it by 
+artist so I'm going to pick Bob Dylan 
+here and Ican download any of these 
+albums thatI've bought on iTunes to 
+thisdevice just by pushing that cloud 
+download button or I could go in to one
+of them and just download whatever songs 
+I want to this device so anything I
+boughtI can now download to any of my 
+devices at no additional charge which is 
+great 
+this is the first time we'veseen this 
+in the music industryno charge for 
+multiple downloads two different devices 
+and for the future I flick one switch to 
+onand now any song I buy on any device 
+again will automatically be downloaded 
+to all my devices so when I want to buy 
+a songin this case an Adele song it 
+will push it to all ofmy devices so to 
+give us a demo ofthat again I'd like to 
+inviteEddie up thank you thanks Steve 
+so I'm on myiPhone and I want to listen 
+to a song I'd previously purchased on 
+iTunesbut it's not in the music library 
+on this device well now I can easily 
+just go to the iTunes Music Store 
+there's a new purchase tab right on the 
+bottom and nowI'm seeing all of the 
+purchases I've ever done oniTunes I can 
+evenlook at them the songs that I had 
+thatare not on this device that I 
+previouslypurchased by just tapping 
+that buttonnow I'm going to look for a 
+Foo Fighterssong I think it's called 
+walk 
+and there it isand what just tapping 
+the iCloud button it downloads to my 
+iPhoneagain because I'd previously 
+purchasedthis song it's downloading at 
+no additional costlet's go ahead and 
+play it
+just finishing downloading now that's
+great but iTunes in the cloud is even
+betterlet's see what happens when I 
+purchase a new song and if we can bring
+up my iPad I'm going to go ahead and 
+launch our newmusic player in iOS 5 and 
+on my iPhone I'm going to go back to the 
+iTunesstore I want to buy a new song 
+and Iwant to look at the Bruno Mars's 
+new albumI know he has a hit song I 
+think it's called lazy lazy song that's 
+itwe can preview it that's definitely 
+it now I'm going to buy it but before I 
+donotice on my iPad I don't have any 
+Bruno Mars songs at all so we're going
+togo and buy and it's now downloading 
+to my iPhoneand in addition there's the 
+BrunoMars song 
+and of course thequail I just wanna 
+make so now when I buy a song on one of 
+my devicesit automatically downloads to 
+all of my deviceswithout having to sync 
+or do any work atall and that's iTunes 
+in the cloud
+thank you verymuch is this awesome 
+so musicpurchase from iTunes high 
+quality 256 kilobits AAC and you can 
+haveup to 10 devices downloading your 
+music to all of them everytime you buy 
+it on any deviceiTunes in the cloud so 
+these9 apps constitute iCloud and they 
+are all free we want we wantevery user 
+totake advantage of these and we know 
+if we make them free that they'll they
+will and we wantpeople to see what 
+these devices can really do and what the 
+softwarecan really do so we're making 
+it free and we're very excited about it 
+so that's iCloudit stores your content 
+and wirelessly pushes it to all your
+devices and it's integrated with your 
+appsso everything happens automatically 
+so a competitor that doesn't own the 
+appsor doesn't have great developers to 
+integratewith their apps they can never 
+do thisthey can never make it so it 
+just works and that's what we've done 
+here so how do you get it well when you 
+upgradeyour phone or buy a new phone 
+with iOS 5 on itall you have to do is 
+type inyour Apple ID and password and 
+that's itand you'll go to switch that's 
+iCloud you can turn it offif you like 
+will be turned on by default and you're 
+up andrunning we're also going to give 
+everybody fivegigabytes of free storage 
+for mail documents and backup and that's 
+even more than it sounds like because 
+we're not countingpurchase music apps 
+orbooks towards that five gigabytes 
+nor arewe counting photostream 
+towards thatfive gigabytes so when can 
+you get your hands on this today 
+we're going to getyou all a developer 
+betatoday and also today we're going to 
+make something availableto end-users 
+which is the iTunes in the cloud portion 
+and it runs on iOS 4.3 it will run on 
+allthe supported platforms and when we 
+ship it this fall but today we'regoing 
+to put it out for4.3 as a beta and 
+everyone canget their hands on it and 
+run it on their existing existing iPhone 
+really excitingand of course we ship 
+iCloudconcurrent with shipping iOS 5 
+this fallso that is iCloud 
+now there'sone more thing a small thing 
+it pertains to iTunes in the cloudas 
+you recall iTunes in the cloud is just
+for the music that you've purchased from 
+theiTunes Store now at 14 billion songs 
+songs out there 
+they've been purchased fromiTunes Music 
+Store but you may have some that you 
+ripped yourselfand there's three ways 
+youcan deal with that one 
+you can syncyour new devices over Wi-Fi 
+or cable a cable and you only have to 
+sync them once just toget that music on 
+them and thenyou can rely on iCloud to 
+take careof getting all your new 
+purchases off iTunes onto that device or 
+if it's just a few songs you love you 
+don't leave behind you can buy those 
+songsthat you'll miss on iTunes we're 
+going tooffer a third way which is 
+callediTunes Match what is iTunes Match 
+well iTunes Match uses the fact that
+we've got 18 million songs now in the 
+iTunesMusic Store and the chances are 
+awfully goodthat we've got the songs in 
+our storethat you've ripped and so we 
+wrote softwareto scan those CDs the 
+ripsi teen on iTunes music and match it 
+upwith those songs we have in the store 
+right andso we can give that music the 
+same benefits as music purchase from
+iTunes and it takes just minutes not 
+weeksif you have to upload your whole 
+library into someLocker in the sky that 
+literally takes weeks this takes minutes 
+because we're scanning and matching your 
+library sowe don't need to upload that 
+that largepart of your library and the 
+few songs thatremain well we'll upload 
+them but with 18 million songs they're 
+most likely to have what you've got
+in addition iTunes Match will upgrade
+those songs that match the 256 kilobits 
+AAC
+and iTunes Match cost just $24.99 a year 
+so if you'vegot a bunch of music if 
+you've got a bunchof music that you 
+didn't buy from iTunes youcan get all 
+the benefitsof the cloud service and 
+morein terms of upgrading your music 
+for $24.99 a year nowif you look and 
+comparethat to some competitors let's 
+just look at Appleand Amazon and Google 
+your kind of get surprised because again 
+the library in the cloudwe scan and 
+matchthe other guys you got to upload 
+your wholemusic library again it's 
+going to take weeks music apps on your 
+Macand PC and while you're stuck with a 
+web app instead of iTunes upgradeto 256 
+kilobits per second theother guys 
+aren't upgrading you at all the annual
+price for5,000 songs we're $24.99 
+Amazon charges you $50 for the storage 
+andGoogle hasn't announced their 
+pricing yet evenat 20,000 songs we 
+charge one flat price Amazon's up to 
+announcerpresent 
+most ofour customers won't need this 
+because they bought a lot of their music 
+oniTunes but for those that do 
+it's anindustry-leading offering let's 
+put itthat way 
+so that's iTunes Matchand it goes along 
+with freeiTunes in the cloud 
+and that's what it isnow 
+if you don't think we'reserious about 
+this you're wrong this is our third data 
+centerthat we just completed it's in 
+Maidan North Carolina this is what it 
+looks like
+it's rather largeit's as eco-friendly 
+asyou can make a data center with 
+moderntechnology and we're pretty proud 
+ofit just to give you a feel for its 
+size
+see those two littledots on the roof 
+those are two peopleright there so it's 
+a pretty large place and and it's a full
+of stuff a little expensive stuff okay
+and we areready we think for for our 
+customersto start using iCloud and we 
+can't wait toget it in their hands so I 
+cloud is the thirdthing we want to talk 
+about today I hope you like all the 
+three thingsthat we've unveiled this 
+morning and againwe've got a great week 
+plan for youwith 5200 attendees over 
+over a thousand Appleengineers here all 
+week so please askus for any help you 
+needthat's why we're here so go at it 
+have a great week and thankyou very 
+much for coming 
+you

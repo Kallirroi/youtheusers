@@ -1,0 +1,2888 @@
+1
+00:00:00,030 --> 00:00:04,529
+now this is why we getso excited when 
+
+2
+00:00:04,529 --> 00:00:07,730
+we're working  on a new version of iOS 
+
+3
+00:00:07,730 --> 00:00:10,679
+because we know that we can positively 
+
+4
+00:00:10,679 --> 00:00:13,969
+affect millions of developers and 
+
+5
+00:00:13,969 --> 00:00:18,390
+hundreds of millions of users and that 
+
+6
+00:00:18,390 --> 00:00:23,970
+isexactly what we've been up  to the 
+
+7
+00:00:23,970 --> 00:00:26,400
+team at Apple has beenworking 
+
+8
+00:00:26,400 --> 00:00:30,359
+incredibly hard  on the latest version of 
+
+9
+00:00:30,359 --> 00:00:35,460
+iOS and today it's a great thrill that I 
+
+10
+00:00:35,460 --> 00:00:39,890
+announce  iOS 7 
+
+11
+00:00:46,230 --> 00:00:50,309
+iOS 7 is the biggest change to iOS since 
+
+12
+00:00:50,309 --> 00:00:53,190
+the introduction of iPhone it's packed 
+
+13
+00:00:53,190 --> 00:00:56,879
+with amazing new features and a stunning 
+
+14
+00:00:56,879 --> 00:01:00,739
+new user interface we prepared a video 
+
+15
+00:01:00,739 --> 00:01:03,329
+to show you our thinking behind the
+
+16
+00:01:03,329 --> 00:01:05,519
+design and I'd like to run  it for you 
+
+17
+00:01:05,519 --> 00:01:07,700
+now
+
+18
+00:01:18,730 --> 00:01:21,760
+we have always thoughtof  design as 
+
+19
+00:01:21,760 --> 00:01:25,160
+being so much more than just the way 
+
+20
+00:01:25,160 --> 00:01:32,090
+something looks it's the whole thing the 
+
+21
+00:01:32,090 --> 00:01:34,100
+way something actually works on so many 
+
+22
+00:01:34,100 --> 00:01:36,820
+different levels 
+
+23
+00:01:39,630 --> 00:01:43,960
+ultimately of course design defines so 
+
+24
+00:01:43,960 --> 00:01:46,830
+much of our experience
+
+25
+00:01:56,330 --> 00:02:00,430
+I think there is a profound and enduring 
+
+26
+00:02:00,430 --> 00:02:06,280
+beauty in simplicity in clarity in 
+
+27
+00:02:06,280 --> 00:02:10,669
+efficiency true simplicity is derived 
+
+28
+00:02:10,669 --> 00:02:14,540
+from so much more than justthe absence 
+
+29
+00:02:14,540 --> 00:02:17,090
+of clutterand  ornamentation it's about 
+
+30
+00:02:17,090 --> 00:02:21,340
+bringing order to complexity
+
+31
+00:02:24,459 --> 00:02:29,090
+iOS 7 is a clear representation of these 
+
+32
+00:02:29,090 --> 00:02:36,650
+goals it has a whole new structure that 
+
+33
+00:02:36,650 --> 00:02:40,519
+is coherentand it is applied across the 
+
+34
+00:02:40,519 --> 00:02:43,209
+entire system
+
+35
+00:02:51,780 --> 00:02:54,720
+we'veconsidered  the tiniest details 
+
+36
+00:02:54,720 --> 00:02:58,560
+like refining the typographyto much 
+
+37
+00:02:58,560 --> 00:03:01,620
+largerones  by redesigning all the icons 
+
+38
+00:03:01,620 --> 00:03:05,100
+and developing a grid system allowed us 
+
+39
+00:03:05,100 --> 00:03:07,310
+toachieve a much more harmonious 
+
+40
+00:03:07,310 --> 00:03:10,310
+relationship between individual elements
+
+41
+00:03:10,310 --> 00:03:13,500
+we've also incorporated a whole new 
+
+42
+00:03:13,500 --> 00:03:16,460
+palette of colors 
+
+43
+00:03:19,300 --> 00:03:22,550
+distinct functional layers help 
+
+44
+00:03:22,550 --> 00:03:30,500
+establish hierarchy and order and the 
+
+45
+00:03:30,500 --> 00:03:34,070
+use of translucency gives you a  sense of 
+
+46
+00:03:34,070 --> 00:03:41,150
+your context these plains  combined with 
+
+47
+00:03:41,150 --> 00:03:43,870
+new approaches to animation and motion
+
+48
+00:03:43,870 --> 00:03:48,670
+create a sense of depth and vitality 
+
+49
+00:03:56,030 --> 00:03:59,450
+the iPhone responding to your movements 
+
+50
+00:03:59,450 --> 00:04:02,270
+drives the parallax to create a whole 
+
+51
+00:04:02,270 --> 00:04:09,980
+new experience of depth in many ways 
+
+52
+00:04:09,980 --> 00:04:12,920
+we've tried to create an interface that 
+
+53
+00:04:12,920 --> 00:04:18,560
+is unobtrusive and deferential one where 
+
+54
+00:04:18,560 --> 00:04:20,959
+the design recedes and in doing so 
+
+55
+00:04:20,959 --> 00:04:25,910
+actually elevates your content even the 
+
+56
+00:04:25,910 --> 00:04:28,600
+simple actof changing your wallpaper 
+
+57
+00:04:28,600 --> 00:04:32,210
+has a very noticeable effect on the way 
+
+58
+00:04:32,210 --> 00:04:35,480
+your iPhone looks and feels across the 
+
+59
+00:04:35,480 --> 00:04:38,170
+entire system
+
+60
+00:04:39,830 --> 00:04:44,430
+while ios7 is completely new it was 
+
+61
+00:04:44,430 --> 00:04:47,040
+importantto us to make  it instantly 
+
+62
+00:04:47,040 --> 00:04:49,610
+familiar 
+
+63
+00:04:52,430 --> 00:04:55,130
+we wantedto  take an experience that 
+
+64
+00:04:55,130 --> 00:04:58,430
+people know very well  and actually add 
+
+65
+00:04:58,430 --> 00:05:01,850
+to it to  make it more useful  to make it 
+
+66
+00:05:01,850 --> 00:05:04,330
+moreenjoyable 
+
+67
+00:05:04,900 --> 00:05:08,170
+to createit we brought together a broad 
+
+68
+00:05:08,170 --> 00:05:11,260
+range of expertise from design to
+
+69
+00:05:11,260 --> 00:05:15,310
+engineering  with what we've been able to 
+
+70
+00:05:15,310 --> 00:05:20,470
+achieve togetherwe see  ios7 as defining 
+
+71
+00:05:20,470 --> 00:05:23,470
+an important new direction and in many 
+
+72
+00:05:23,470 --> 00:05:26,760
+ways  the beginning 
+
+73
+00:06:01,850 --> 00:06:07,210
+you are going to absolutelylove ios7 
+
+74
+00:06:07,840 --> 00:06:12,110
+this thank you this major effort this 
+
+75
+00:06:12,110 --> 00:06:16,850
+major effortis only possible  because of 
+
+76
+00:06:16,850 --> 00:06:19,280
+the incredible collaboration between 
+
+77
+00:06:19,280 --> 00:06:22,450
+Johnny and his amazing design team and 
+
+78
+00:06:22,450 --> 00:06:25,730
+Craig and his incredible engineering 
+
+79
+00:06:25,730 --> 00:06:30,470
+team without further ado I'd like to 
+
+80
+00:06:30,470 --> 00:06:33,850
+invite Craig back up to take you through 
+
+81
+00:06:33,850 --> 00:06:38,900
+iOS 7the biggest change to iOS since 
+
+82
+00:06:38,900 --> 00:06:41,530
+the iPhone 
+
+83
+00:06:50,500 --> 00:06:54,169
+well on behalf of all of the engineers 
+
+84
+00:06:54,169 --> 00:06:57,560
+and designers who worked so hard to make 
+
+85
+00:06:57,560 --> 00:07:00,409
+today a realityI'm absolutely thrilled 
+
+86
+00:07:00,409 --> 00:07:02,240
+to have this opportunity to show you 
+
+87
+00:07:02,240 --> 00:07:06,800
+iOS 7 let's take a look it's 
+
+88
+00:07:06,800 --> 00:07:09,500
+unbelievable it's just gorgeous 
+
+89
+00:07:09,500 --> 00:07:12,940
+from thetypography on this lock screen 
+
+90
+00:07:12,940 --> 00:07:15,889
+to the vitality of the background of an 
+
+91
+00:07:15,889 --> 00:07:19,550
+animation to the home screen with these 
+
+92
+00:07:19,550 --> 00:07:23,180
+icons looks so great it just looked 
+
+93
+00:07:23,180 --> 00:07:24,340
+fantastic 
+
+94
+00:07:24,340 --> 00:07:27,400
+and you know a lot of us have our own 
+
+95
+00:07:27,400 --> 00:07:29,270
+wallpaper you know we like pictures of 
+
+96
+00:07:29,270 --> 00:07:32,229
+our family there and now that liveliness 
+
+97
+00:07:32,229 --> 00:07:35,599
+actually carries through to the  home 
+
+98
+00:07:35,599 --> 00:07:37,310
+screen because as you move the device in 
+
+99
+00:07:37,310 --> 00:07:39,800
+your hand it actually tracks your motion 
+
+100
+00:07:39,800 --> 00:07:42,919
+and as parallax thix but you can see 
+
+101
+00:07:42,919 --> 00:07:45,169
+behind the icons it's really incredible 
+
+102
+00:07:45,169 --> 00:07:48,080
+and it carries over across the  system 
+
+103
+00:07:48,080 --> 00:07:49,610
+this liveliness let me just take a look
+
+104
+00:07:49,610 --> 00:07:52,639
+at somethinglike  weather where the 
+
+105
+00:07:52,639 --> 00:07:54,590
+motion conveys this information and 
+
+106
+00:07:54,590 --> 00:07:56,840
+where the edge to edge design just takes 
+
+107
+00:07:56,840 --> 00:07:59,300
+advantageof every pixel on that Retina 
+
+108
+00:07:59,300 --> 00:08:03,349
+display it's so nice it's great for apps 
+
+109
+00:08:03,349 --> 00:08:08,840
+youuse  every day like messages your 
+
+110
+00:08:08,840 --> 00:08:14,090
+calendar your email is gorgeous your 
+
+111
+00:08:14,090 --> 00:08:19,779
+friends never look more attractive and 
+
+112
+00:08:19,779 --> 00:08:22,219
+GameCenter  we just completely ran out of 
+
+113
+00:08:22,219 --> 00:08:24,879
+green felt
+
+114
+00:08:30,380 --> 00:08:33,470
+and would as well this has got to be 
+
+115
+00:08:33,470 --> 00:08:35,110
+good for the environment
+
+116
+00:08:35,110 --> 00:08:38,870
+the clocks look great and even apps like 
+
+117
+00:08:38,870 --> 00:08:41,659
+stocksand compass  they just have this 
+
+118
+00:08:41,659 --> 00:08:43,400
+look of precision thesense of purpose 
+
+119
+00:08:43,400 --> 00:08:46,790
+the best way to appreciate  iOS 7 is to 
+
+120
+00:08:46,790 --> 00:08:48,950
+see it live I'd like to give you a demo 
+
+121
+00:08:48,950 --> 00:08:57,470
+rightnow so let's take our  first live 
+
+122
+00:08:57,470 --> 00:09:01,340
+look at iOS 7 here it is you can  see how 
+
+123
+00:09:01,340 --> 00:09:03,800
+device actually responds to the motion 
+
+124
+00:09:03,800 --> 00:09:07,070
+in my handjust slide out the lock 
+
+125
+00:09:07,070 --> 00:09:08,510
+screen you see how it  slides in I want 
+
+126
+00:09:08,510 --> 00:09:09,800
+you all to look away for  a moment while 
+
+127
+00:09:09,800 --> 00:09:13,090
+I type in my okay you can lookagain 
+
+128
+00:09:13,090 --> 00:09:16,630
+don't tell anyone about that all right 
+
+129
+00:09:16,630 --> 00:09:19,730
+so here we are on the  gorgeous new home 
+
+130
+00:09:19,730 --> 00:09:22,670
+screen let's go into weather see on 
+
+131
+00:09:22,670 --> 00:09:24,740
+whether it's a little cloudy today I can 
+
+132
+00:09:24,740 --> 00:09:27,410
+actually tap here the degrees get more 
+
+133
+00:09:27,410 --> 00:09:31,040
+informationlike  humidity and rain let's 
+
+134
+00:09:31,040 --> 00:09:34,550
+swipe through some locations clear and 
+
+135
+00:09:34,550 --> 00:09:39,980
+Sydney kind  of hot in Phoenix here in a 
+
+136
+00:09:39,980 --> 00:09:41,960
+Big Thunder Mountain it's looking a 
+
+137
+00:09:41,960 --> 00:09:44,810
+little little rough we've got some some
+
+138
+00:09:44,810 --> 00:09:51,920
+thunder brewing oh yeah some heavy snow 
+
+139
+00:09:51,920 --> 00:09:57,320
+here inthe  North Pole and a tropical 
+
+140
+00:09:57,320 --> 00:09:59,030
+stormhere in Gilligan's Island I hope 
+
+141
+00:09:59,030 --> 00:10:03,020
+they got off that Island so 
+
+142
+00:10:03,020 --> 00:10:05,030
+and it's more functionalthan ever if 
+
+143
+00:10:05,030 --> 00:10:09,050
+you pinch you get this gorgeous  overview 
+
+144
+00:10:09,050 --> 00:10:13,520
+of all your cities even with the time so 
+
+145
+00:10:13,520 --> 00:10:16,370
+it's a world clock as well let's take a 
+
+146
+00:10:16,370 --> 00:10:21,740
+look at the calendar so clean its swipe 
+
+147
+00:10:21,740 --> 00:10:24,380
+from days today like this turn it into 
+
+148
+00:10:24,380 --> 00:10:26,750
+landscape see your whole week at a
+
+149
+00:10:26,750 --> 00:10:30,890
+glance at a big week ahead  zoom out 
+
+150
+00:10:30,890 --> 00:10:35,120
+scroll easily through your months even
+
+151
+00:10:35,120 --> 00:10:38,060
+go all the way  out to the year let's 
+
+152
+00:10:38,060 --> 00:10:42,140
+take a look atmessages you notice  as we 
+
+153
+00:10:42,140 --> 00:10:43,610
+scroll we have this great sort of 
+
+154
+00:10:43,610 --> 00:10:47,780
+playful motion the bubbles let's bring 
+
+155
+00:10:47,780 --> 00:10:48,590
+up the keyboard 
+
+156
+00:10:48,590 --> 00:10:50,870
+you slide contents of the keyboard you
+
+157
+00:10:50,870 --> 00:10:53,420
+see thelayering  and transparency gives 
+
+158
+00:10:53,420 --> 00:10:55,790
+you that sense of context there's this 
+
+159
+00:10:55,790 --> 00:10:57,440
+gesture now from the left edge of the 
+
+160
+00:10:57,440 --> 00:10:58,700
+device it's great for using  the device 
+
+161
+00:10:58,700 --> 00:11:01,340
+of one hand if I want to just go  back I 
+
+162
+00:11:01,340 --> 00:11:02,390
+can just swipe from the edge of the 
+
+163
+00:11:02,390 --> 00:11:06,940
+displaypull back like that  move in out 
+
+164
+00:11:06,940 --> 00:11:10,700
+so cleanand natural  let's take a look 
+
+165
+00:11:10,700 --> 00:11:12,650
+at foldersthat go here into my games 
+
+166
+00:11:12,650 --> 00:11:17,060
+folder  can have multiple pages store 
+
+167
+00:11:17,060 --> 00:11:22,090
+hundredsRider awesome 
+
+168
+00:11:22,779 --> 00:11:27,129
+take a look at Game Center 
+
+169
+00:11:32,020 --> 00:11:35,990
+some of those good-looking friends let's 
+
+170
+00:11:35,990 --> 00:11:40,400
+take a look atmale the type is just so 
+
+171
+00:11:40,400 --> 00:11:42,260
+cleanand you're drilling  to a message 
+
+172
+00:11:42,260 --> 00:11:44,090
+look at how you get these fullscreen 
+
+173
+00:11:44,090 --> 00:11:46,280
+edge-to-edge  photos it's really great 
+
+174
+00:11:46,280 --> 00:11:47,930
+andthat gesture for  moving in and out 
+
+175
+00:11:47,930 --> 00:11:49,880
+works here too of course just move 
+
+176
+00:11:49,880 --> 00:11:52,960
+between messages just like this so great 
+
+177
+00:11:52,960 --> 00:11:55,880
+and if you just slide across on any  item 
+
+178
+00:11:55,880 --> 00:11:58,190
+you can get  it the trash and more 
+
+179
+00:11:58,190 --> 00:12:01,000
+options as well right here  in mail 
+
+180
+00:12:01,000 --> 00:12:03,020
+finally let's take  a look at 
+
+181
+00:12:03,020 --> 00:12:05,390
+Notification Center same as always we 
+
+182
+00:12:05,390 --> 00:12:06,530
+can just swipe down from the top of 
+
+183
+00:12:06,530 --> 00:12:08,150
+their Vice comes down  with a nice thud 
+
+184
+00:12:08,150 --> 00:12:10,790
+you can see all notifications just my 
+
+185
+00:12:10,790 --> 00:12:12,380
+missed ones and we have this great  new 
+
+186
+00:12:12,380 --> 00:12:14,570
+today view so you can see your friends 
+
+187
+00:12:14,570 --> 00:12:17,990
+birthdays current look at the weather or 
+
+188
+00:12:17,990 --> 00:12:22,070
+up coming in invitations your calendar 
+
+189
+00:12:22,070 --> 00:12:25,460
+your stocksand even a quick look at 
+
+190
+00:12:25,460 --> 00:12:28,040
+tomorrow you know what's really great is 
+
+191
+00:12:28,040 --> 00:12:31,310
+for the first time ever Notification
+
+192
+00:12:31,310 --> 00:12:33,380
+Center is now available from thelock 
+
+193
+00:12:33,380 --> 00:12:35,270
+screen  as well you don't even have to 
+
+194
+00:12:35,270 --> 00:12:40,700
+unlock your device so that's a quick 
+
+195
+00:12:40,700 --> 00:12:43,850
+look at iOS 7 it's a comprehensive 
+
+196
+00:12:43,850 --> 00:12:46,970
+end-to-end redesign of the user 
+
+197
+00:12:46,970 --> 00:12:50,240
+experience installing iOS 7 on your 
+
+198
+00:12:50,240 --> 00:12:52,610
+phone is like getting an entirely new 
+
+199
+00:12:52,610 --> 00:12:54,710
+phone but when you already know how to 
+
+200
+00:12:54,710 --> 00:12:57,350
+use one that's so much more beautiful 
+
+201
+00:12:57,350 --> 00:13:01,820
+and functional than ever before but iOS 
+
+202
+00:13:01,820 --> 00:13:05,030
+7 is actually more than that it's also a 
+
+203
+00:13:05,030 --> 00:13:08,360
+major feature release as well I have  10 
+
+204
+00:13:08,360 --> 00:13:09,710
+features I want to talk to you about
+
+205
+00:13:09,710 --> 00:13:13,900
+today starting with control center 
+
+206
+00:13:13,900 --> 00:13:16,460
+control center is something that's so 
+
+207
+00:13:16,460 --> 00:13:19,340
+simple and yet so essential you have 
+
+208
+00:13:19,340 --> 00:13:20,810
+those switches that you just want to get 
+
+209
+00:13:20,810 --> 00:13:22,400
+to really  quickly from wherever you are 
+
+210
+00:13:22,400 --> 00:13:25,190
+well now with control center swipe up 
+
+211
+00:13:25,190 --> 00:13:27,360
+from thebottom of  the device 
+
+212
+00:13:27,360 --> 00:13:29,959
+and there they are
+
+213
+00:13:33,410 --> 00:13:36,110
+turn onairplane mode  adjust your 
+
+214
+00:13:36,110 --> 00:13:38,990
+brightness play a songeven  get a 
+
+215
+00:13:38,990 --> 00:13:43,430
+flashlightand  available from anywhere 
+
+216
+00:13:43,430 --> 00:13:45,800
+including your lock screen so if you 
+
+217
+00:13:45,800 --> 00:13:47,000
+wake upin the  middle of the night you 
+
+218
+00:13:47,000 --> 00:13:49,250
+need to find something your flashlights 
+
+219
+00:13:49,250 --> 00:13:51,980
+right there and that's control center 
+
+220
+00:13:51,980 --> 00:13:56,660
+next let's talk about multitasking now 
+
+221
+00:13:56,660 --> 00:14:00,019
+iOS 7 has always been built on the 
+
+222
+00:14:00,019 --> 00:14:03,259
+industrial strength foundations of OS 10 
+
+223
+00:14:03,259 --> 00:14:06,829
+and had intrinsic  powerful multitasking 
+
+224
+00:14:06,829 --> 00:14:08,779
+capabilities but we had to be careful 
+
+225
+00:14:08,779 --> 00:14:10,160
+about  how we've exposed these two 
+
+226
+00:14:10,160 --> 00:14:11,990
+applications because we want to preserve 
+
+227
+00:14:11,990 --> 00:14:16,459
+great battery life now in iOS 4 we did 
+
+228
+00:14:16,459 --> 00:14:18,649
+add support for select kinds of
+
+229
+00:14:18,649 --> 00:14:20,660
+applications to do multitasking things 
+
+230
+00:14:20,660 --> 00:14:22,850
+likeplaying music in the background or 
+
+231
+00:14:22,850 --> 00:14:25,519
+receiving a voice over IP call while 
+
+232
+00:14:25,519 --> 00:14:27,170
+your app was in the background
+
+233
+00:14:27,170 --> 00:14:30,259
+well now in iOS 7 I'm pleased to 
+
+234
+00:14:30,259 --> 00:14:31,069
+announcethat we're going  to have 
+
+235
+00:14:31,069 --> 00:14:36,610
+multitasking for all apps with great 
+
+236
+00:14:41,590 --> 00:14:45,410
+so how does itwork well imagine  you 
+
+237
+00:14:45,410 --> 00:14:47,510
+have an app thatyou're using  constantly 
+
+238
+00:14:47,510 --> 00:14:49,040
+throughout the day a social networking 
+
+239
+00:14:49,040 --> 00:14:51,110
+app or somethingyou're checking  in all 
+
+240
+00:14:51,110 --> 00:14:53,600
+the time well iOS 7  is notices that 
+
+241
+00:14:53,600 --> 00:14:55,160
+pattern of use and is going to  provide 
+
+242
+00:14:55,160 --> 00:14:57,410
+that app with frequent background 
+
+243
+00:14:57,410 --> 00:14:59,690
+activity to stay up to date let's see if 
+
+244
+00:14:59,690 --> 00:15:01,760
+another app you usemay be that you  just 
+
+245
+00:15:01,760 --> 00:15:03,860
+check-in on in the morning breakfast 
+
+246
+00:15:03,860 --> 00:15:06,380
+maybe at night after  work well iOS  7 
+
+247
+00:15:06,380 --> 00:15:07,700
+notices thattoo and it's going  to give 
+
+248
+00:15:07,700 --> 00:15:10,760
+that app background cycles just in time 
+
+249
+00:15:10,760 --> 00:15:12,670
+so it's up to date for when you need it 
+
+250
+00:15:12,670 --> 00:15:15,860
+now in addition  to this intelligent 
+
+251
+00:15:15,860 --> 00:15:19,160
+scheduling iOS 7 does opportunistic
+
+252
+00:15:19,160 --> 00:15:21,170
+updates the average user wakes their 
+
+253
+00:15:21,170 --> 00:15:23,210
+device dozens of times a day and  those 
+
+254
+00:15:23,210 --> 00:15:24,920
+provide great opportunitieswhen the 
+
+255
+00:15:24,920 --> 00:15:27,170
+system's already  powered up to update 
+
+256
+00:15:27,170 --> 00:15:29,600
+apps in thebackground  it also adapts 
+
+257
+00:15:29,600 --> 00:15:32,030
+intelligentlyto network conditions  so 
+
+258
+00:15:32,030 --> 00:15:34,430
+if it's a good coverage it's a great 
+
+259
+00:15:34,430 --> 00:15:37,910
+time tofetch and it coalesces updates 
+
+260
+00:15:37,910 --> 00:15:39,800
+across multiple applications so once you 
+
+261
+00:15:39,800 --> 00:15:42,200
+have those radios power it up lets 
+
+262
+00:15:42,200 --> 00:15:43,940
+multiple applications take advantage of 
+
+263
+00:15:43,940 --> 00:15:45,320
+itfor their background updates  and 
+
+264
+00:15:45,320 --> 00:15:48,170
+finally iOS 7 responds to push
+
+265
+00:15:48,170 --> 00:15:50,780
+notifications as a trigger to give that 
+
+266
+00:15:50,780 --> 00:15:52,640
+application time in the backgroundso 
+
+267
+00:15:52,640 --> 00:15:54,080
+when you follow that notification the 
+
+268
+00:15:54,080 --> 00:15:57,400
+Apple are to be up to date 
+
+269
+00:16:01,209 --> 00:16:04,220
+now Iowaseven  also has a great new user 
+
+270
+00:16:04,220 --> 00:16:06,260
+interfacefor moving  between all the 
+
+271
+00:16:06,260 --> 00:16:07,550
+things you have going on on your phone 
+
+272
+00:16:07,550 --> 00:16:11,329
+now you can double click and  move into 
+
+273
+00:16:11,329 --> 00:16:12,860
+Notification Center and just swipe 
+
+274
+00:16:12,860 --> 00:16:14,810
+between your running applications tap 
+
+275
+00:16:14,810 --> 00:16:17,510
+andmove right  in and that is 
+
+276
+00:16:17,510 --> 00:16:21,010
+multitasking in iOS 7 
+
+277
+00:16:24,939 --> 00:16:28,910
+next let's talk aboutSafari Safari is 
+
+278
+00:16:28,910 --> 00:16:31,939
+the most popular mobile browser in the
+
+279
+00:16:31,939 --> 00:16:34,790
+worldand an iOS  7 we're making it even 
+
+280
+00:16:34,790 --> 00:16:39,639
+better has a great new full-screen  look 
+
+281
+00:16:39,639 --> 00:16:42,799
+really focus on your content if you pull 
+
+282
+00:16:42,799 --> 00:16:45,170
+down tap at the top you can now get a 
+
+283
+00:16:45,170 --> 00:16:47,899
+smart search field from that search
+
+284
+00:16:47,899 --> 00:16:51,290
+field you can get it one tap access to 
+
+285
+00:16:51,290 --> 00:16:53,899
+all ofyour  favorites as well as do 
+
+286
+00:16:53,899 --> 00:16:57,679
+searchand access  URLs and it's a great 
+
+287
+00:16:57,679 --> 00:17:00,949
+new interface for your tabs in addition 
+
+288
+00:17:00,949 --> 00:17:03,139
+to all ofthis it has parental  controls 
+
+289
+00:17:03,139 --> 00:17:05,510
+and integration with the same iCloud 
+
+290
+00:17:05,510 --> 00:17:08,270
+keychain you saw earlier with Mavericks 
+
+291
+00:17:08,270 --> 00:17:11,000
+I'd like to give you a demo of  Safari 
+
+292
+00:17:11,000 --> 00:17:22,789
+now let's take a look okay let's head on 
+
+293
+00:17:22,789 --> 00:17:27,289
+into Safari  so here we are in Safari 
+
+294
+00:17:27,289 --> 00:17:29,899
+I'm gonna just zoom in on this page one 
+
+295
+00:17:29,899 --> 00:17:33,470
+you watch as I scrollall the controls 
+
+296
+00:17:33,470 --> 00:17:35,090
+just recede and now you have that full 
+
+297
+00:17:35,090 --> 00:17:37,789
+screen for your content  we've really 
+
+298
+00:17:37,789 --> 00:17:39,080
+improved the way you navigate now in 
+
+299
+00:17:39,080 --> 00:17:41,480
+Safari I'm just gonna tap inhere to a 
+
+300
+00:17:41,480 --> 00:17:45,080
+link to a detailed story we can even 
+
+301
+00:17:45,080 --> 00:17:46,880
+zoom in of course on this page in that 
+
+302
+00:17:46,880 --> 00:17:48,980
+same gesture you saw earlier for going 
+
+303
+00:17:48,980 --> 00:17:50,630
+back well of coursethat works  in Safari 
+
+304
+00:17:50,630 --> 00:17:52,250
+as well so I just swipe in from the edge 
+
+305
+00:17:52,250 --> 00:17:54,529
+of the display and I can navigate back 
+
+306
+00:17:54,529 --> 00:17:56,919
+and forth through my browser history 
+
+307
+00:17:56,919 --> 00:17:59,779
+just  like that it's such a fantastic way 
+
+308
+00:17:59,779 --> 00:18:02,899
+to browse next let's look  at that 
+
+309
+00:18:02,899 --> 00:18:04,549
+unified search field I'm just gonna tap 
+
+310
+00:18:04,549 --> 00:18:06,529
+up hereat the top you see how  I have 
+
+311
+00:18:06,529 --> 00:18:09,139
+one tap access to all my favorites it's 
+
+312
+00:18:09,139 --> 00:18:10,850
+really convenient but I'mgonna type in 
+
+313
+00:18:10,850 --> 00:18:13,940
+this case so I'll type D is and you 
+
+314
+00:18:13,940 --> 00:18:16,940
+notice Ihave a top URL head as well as 
+
+315
+00:18:16,940 --> 00:18:18,500
+Google search suggestions as well 
+
+316
+00:18:18,500 --> 00:18:21,559
+available  all right here we've really 
+
+317
+00:18:21,559 --> 00:18:23,330
+improved bookmarking as well I use this 
+
+318
+00:18:23,330 --> 00:18:25,070
+bookmark control down at the bottom  I 
+
+319
+00:18:25,070 --> 00:18:27,980
+seemy bookmark folders all my bookmarks 
+
+320
+00:18:27,980 --> 00:18:30,110
+we also have shared links you can see 
+
+321
+00:18:30,110 --> 00:18:32,480
+stories posted by people you follow  on 
+
+322
+00:18:32,480 --> 00:18:35,419
+Twitter and my reading list and now just 
+
+323
+00:18:35,419 --> 00:18:37,820
+like you saw in  Mavericks on iOS you can 
+
+324
+00:18:37,820 --> 00:18:38,659
+scroll continue
+
+325
+00:18:38,659 --> 00:18:40,460
+mostly from article to article without 
+
+326
+00:18:40,460 --> 00:18:41,749
+coming back to the list 
+
+327
+00:18:41,749 --> 00:18:44,809
+it's really awesome next let's take  a 
+
+328
+00:18:44,809 --> 00:18:48,499
+look at tabs and click here at the 
+
+329
+00:18:48,499 --> 00:18:52,970
+bottom intotabs unbelievable  and you're 
+
+330
+00:18:52,970 --> 00:18:56,349
+no longer limited to just eight 
+
+331
+00:19:00,750 --> 00:19:03,720
+and down at the bottom are also all your 
+
+332
+00:19:03,720 --> 00:19:05,190
+iCloud tabs you can see what you left 
+
+333
+00:19:05,190 --> 00:19:08,360
+openon your other devices as well and 
+
+334
+00:19:08,360 --> 00:19:12,930
+tabs they're really nice to use you just 
+
+335
+00:19:12,930 --> 00:19:17,690
+tap sweep intoa tab back out  back in 
+
+336
+00:19:17,690 --> 00:19:20,550
+back out it's just fantastic if you want 
+
+337
+00:19:20,550 --> 00:19:22,410
+to reorderyour tabs just tap and hold 
+
+338
+00:19:22,410 --> 00:19:25,200
+just rearrange them like thisand if 
+
+339
+00:19:25,200 --> 00:19:27,300
+you're done with a tab just swipe it off 
+
+340
+00:19:27,300 --> 00:19:30,690
+to the side and it goes away and that's 
+
+341
+00:19:30,690 --> 00:19:33,830
+the new Safari 
+
+342
+00:19:38,760 --> 00:19:41,840
+let's take a look now at control center 
+
+343
+00:19:41,840 --> 00:19:44,490
+so I'm just gonna swipe up from the 
+
+344
+00:19:44,490 --> 00:19:46,950
+bottom of my display an up comes control 
+
+345
+00:19:46,950 --> 00:19:48,930
+center see have these great switches at 
+
+346
+00:19:48,930 --> 00:19:50,940
+the top can turn on and off Do Not 
+
+347
+00:19:50,940 --> 00:19:53,580
+Disturb  for instance access my 
+
+348
+00:19:53,580 --> 00:19:55,910
+brightness  can even access a flashlight 
+
+349
+00:19:55,910 --> 00:20:02,340
+really useful at night play a  song and 
+
+350
+00:20:02,340 --> 00:20:04,740
+of course this is available to me 
+
+351
+00:20:04,740 --> 00:20:06,420
+everywhere so if I'm in Safari for 
+
+352
+00:20:06,420 --> 00:20:10,410
+instance let's bring it up here you  can 
+
+353
+00:20:10,410 --> 00:20:12,210
+turn off that music and you notice how 
+
+354
+00:20:12,210 --> 00:20:15,510
+it's layering and transparency take the 
+
+355
+00:20:15,510 --> 00:20:17,850
+personalitythe environment where you 
+
+356
+00:20:17,850 --> 00:20:19,070
+bring it up
+
+357
+00:20:19,070 --> 00:20:23,180
+that's control center
+
+358
+00:20:28,090 --> 00:20:30,790
+next up multitasking it's just a great 
+
+359
+00:20:30,790 --> 00:20:32,050
+wayto get  across all the things you're 
+
+360
+00:20:32,050 --> 00:20:33,250
+doing on your device so if I just double 
+
+361
+00:20:33,250 --> 00:20:35,800
+click here on  my home button jump into 
+
+362
+00:20:35,800 --> 00:20:38,140
+multitaskingI can just swipe across 
+
+363
+00:20:38,140 --> 00:20:39,850
+everything I have running you want to 
+
+364
+00:20:39,850 --> 00:20:43,570
+move into one messages double tap back 
+
+365
+00:20:43,570 --> 00:20:49,780
+out move into mail back out just like 
+
+366
+00:20:49,780 --> 00:20:52,240
+this it's really really nice that's 
+
+367
+00:20:52,240 --> 00:20:57,960
+multitasking in iOS 7 thank you 
+
+368
+00:21:00,480 --> 00:21:02,650
+so of course there's there's much much
+
+369
+00:21:02,650 --> 00:21:10,930
+more the iOS  7 including airdrop airdrop 
+
+370
+00:21:10,930 --> 00:21:13,930
+is absolutely theeasiest way to  share 
+
+371
+00:21:13,930 --> 00:21:15,220
+with the people that are right around 
+
+372
+00:21:15,220 --> 00:21:18,490
+you so now when you're in any app that 
+
+373
+00:21:18,490 --> 00:21:21,010
+supports a share sheet  you bring up the 
+
+374
+00:21:21,010 --> 00:21:22,930
+share sheet and your friends that are
+
+375
+00:21:22,930 --> 00:21:25,590
+all around you just show up right there 
+
+376
+00:21:25,590 --> 00:21:28,990
+you tap onone and they're going  to get 
+
+377
+00:21:28,990 --> 00:21:32,320
+a panel right on their display and they 
+
+378
+00:21:32,320 --> 00:21:34,300
+can accept what it is that you shared
+
+379
+00:21:34,300 --> 00:21:36,790
+they accept it they're taken right into 
+
+380
+00:21:36,790 --> 00:21:38,650
+the app and you know if you want to 
+
+381
+00:21:38,650 --> 00:21:41,170
+share with multiple people you just tap 
+
+382
+00:21:41,170 --> 00:21:44,170
+tap tapno need  to wander around the 
+
+383
+00:21:44,170 --> 00:21:47,640
+room bumping your phone 
+
+384
+00:21:54,980 --> 00:21:57,509
+now this is system-wide for any app that
+
+385
+00:21:57,509 --> 00:21:59,730
+supports a share sheet and of course  it 
+
+386
+00:21:59,730 --> 00:22:02,309
+uses peer-to-peer Wi-Fi for maximum 
+
+387
+00:22:02,309 --> 00:22:04,499
+speedand all your transmissions are 
+
+388
+00:22:04,499 --> 00:22:07,200
+securely encrypted becauseit uses  the 
+
+389
+00:22:07,200 --> 00:22:09,480
+latest Wi-Fihardware  it's supported on 
+
+390
+00:22:09,480 --> 00:22:12,409
+the iPhone 5 the fourth-generation iPad 
+
+391
+00:22:12,409 --> 00:22:15,450
+iPad Mini and the fifth-generation iPod 
+
+392
+00:22:15,450 --> 00:22:20,009
+touch and  that is airdrop next let's 
+
+393
+00:22:20,009 --> 00:22:23,610
+talk about the camera  so now your camera 
+
+394
+00:22:23,610 --> 00:22:26,159
+and iOS 7 is 4 cameras in one you can 
+
+395
+00:22:26,159 --> 00:22:28,440
+just swipe  from your video camera to 
+
+396
+00:22:28,440 --> 00:22:31,649
+your photo camera to your square cropped 
+
+397
+00:22:31,649 --> 00:22:34,740
+camera to yourpano camera  and when 
+
+398
+00:22:34,740 --> 00:22:36,779
+you're taking stills you now have access 
+
+399
+00:22:36,779 --> 00:22:40,470
+tolive photo filters from some gorgeous 
+
+400
+00:22:40,470 --> 00:22:42,869
+black and whites  to some classic  color 
+
+401
+00:22:42,869 --> 00:22:44,299
+filters aswell 
+
+402
+00:22:44,299 --> 00:22:46,619
+so with your great new camera we want to
+
+403
+00:22:46,619 --> 00:22:48,570
+give you a great new way to manage your 
+
+404
+00:22:48,570 --> 00:22:51,629
+photos and it's the new Photos app you 
+
+405
+00:22:51,629 --> 00:22:54,210
+know for many usersthis is what their 
+
+406
+00:22:54,210 --> 00:22:57,090
+photo organization looks like an endless 
+
+407
+00:22:57,090 --> 00:22:59,730
+unorganized stream of their camera roll 
+
+408
+00:22:59,730 --> 00:23:01,350
+we've all been there but youknow it 
+
+409
+00:23:01,350 --> 00:23:04,649
+doesn't haveto be this way there's 
+
+410
+00:23:04,649 --> 00:23:07,230
+greatinformation in those  photos iOS 
+
+411
+00:23:07,230 --> 00:23:09,240
+knows where you took the photos and when 
+
+412
+00:23:09,240 --> 00:23:11,279
+you took them and that provides inherent 
+
+413
+00:23:11,279 --> 00:23:13,200
+structure that we can use to organize 
+
+414
+00:23:13,200 --> 00:23:16,619
+those photos and now in photos in iOS 7 
+
+415
+00:23:16,619 --> 00:23:20,129
+we do we organize them into moments I'd 
+
+416
+00:23:20,129 --> 00:23:21,809
+like to give you a demo of that right 
+
+417
+00:23:21,809 --> 00:23:23,840
+now
+
+418
+00:23:28,440 --> 00:23:30,700
+so let's take a look now at  the Photos 
+
+419
+00:23:30,700 --> 00:23:34,690
+app so here you see some photos that 
+
+420
+00:23:34,690 --> 00:23:37,450
+weretaken in San Francisco and you see 
+
+421
+00:23:37,450 --> 00:23:39,700
+nothing was done to organize these 
+
+422
+00:23:39,700 --> 00:23:41,170
+photos explicitly and yet they have
+
+423
+00:23:41,170 --> 00:23:42,520
+these labels like the Palace of Fine 
+
+424
+00:23:42,520 --> 00:23:46,660
+Arts Baker Beach Lombard Street it 
+
+425
+00:23:46,660 --> 00:23:48,580
+provides this natural organization for 
+
+426
+00:23:48,580 --> 00:23:50,710
+appreciating the photos we can go up 
+
+427
+00:23:50,710 --> 00:23:52,420
+there more trips at more time in San 
+
+428
+00:23:52,420 --> 00:23:54,400
+Francisco Golden Gate San Francisco 
+
+429
+00:23:54,400 --> 00:23:56,710
+Fisherman's Wharf but then you see we 
+
+430
+00:23:56,710 --> 00:23:58,450
+have home we have  photos taken at home 
+
+431
+00:23:58,450 --> 00:24:00,430
+and photos taken at the elementary 
+
+432
+00:24:00,430 --> 00:24:03,580
+schooland  around that area and now if 
+
+433
+00:24:03,580 --> 00:24:06,490
+you want to zoomback  out to get a more 
+
+434
+00:24:06,490 --> 00:24:07,930
+of a bird's-eye view  of your collection 
+
+435
+00:24:07,930 --> 00:24:10,150
+we draw these moments intelligently
+
+436
+00:24:10,150 --> 00:24:13,180
+together into collections so see here
+
+437
+00:24:13,180 --> 00:24:15,160
+how that multiple day trip around San 
+
+438
+00:24:15,160 --> 00:24:17,440
+Francisco is collected sorry about that 
+
+439
+00:24:17,440 --> 00:24:20,530
+got a little excited there into it's a 
+
+440
+00:24:20,530 --> 00:24:23,770
+very exciting interface into a multi-day
+
+441
+00:24:23,770 --> 00:24:26,290
+trip in San Francisco andthat time at 
+
+442
+00:24:26,290 --> 00:24:28,000
+home andaround  the school well that's 
+
+443
+00:24:28,000 --> 00:24:30,730
+one moment that's one collection as well 
+
+444
+00:24:30,730 --> 00:24:32,620
+it's a really great way to browse your 
+
+445
+00:24:32,620 --> 00:24:34,980
+photos you can even go all the way out 
+
+446
+00:24:34,980 --> 00:24:39,520
+to theyear level look across  your whole 
+
+447
+00:24:39,520 --> 00:24:42,540
+photo collection
+
+448
+00:24:47,480 --> 00:24:49,100
+and look at how we pull out the 
+
+449
+00:24:49,100 --> 00:24:51,169
+interesting places that you went in that 
+
+450
+00:24:51,169 --> 00:24:54,610
+year like 2011 was  Colorado and Hawaii 
+
+451
+00:24:54,610 --> 00:24:57,529
+2012 went to South America  you may not 
+
+452
+00:24:57,529 --> 00:24:59,360
+remember when you did itbut iOS does 
+
+453
+00:24:59,360 --> 00:25:02,570
+that's right there and you know with 
+
+454
+00:25:02,570 --> 00:25:05,090
+this Retina displayyou  can even kind of 
+
+455
+00:25:05,090 --> 00:25:06,740
+make outpatterns of photos and when 
+
+456
+00:25:06,740 --> 00:25:08,149
+different occasions are and of course we
+
+457
+00:25:08,149 --> 00:25:09,289
+found like we had the urge that we 
+
+458
+00:25:09,289 --> 00:25:11,059
+wanted to just tap in right  from here 
+
+459
+00:25:11,059 --> 00:25:14,419
+and so now in fact you can you canjust 
+
+460
+00:25:14,419 --> 00:25:17,450
+tap and scrub and find the photo you're 
+
+461
+00:25:17,450 --> 00:25:19,639
+looking for just like that it's really
+
+462
+00:25:19,639 --> 00:25:22,370
+just amazing  so I can just pick a photo 
+
+463
+00:25:22,370 --> 00:25:24,559
+here whichever one I want it's kind of 
+
+464
+00:25:24,559 --> 00:25:26,990
+cute and now we can edit it because we 
+
+465
+00:25:26,990 --> 00:25:28,549
+have photofilters so I can go into the 
+
+466
+00:25:28,549 --> 00:25:31,850
+filtershere  I can try different color 
+
+467
+00:25:31,850 --> 00:25:34,909
+effects and if I find one I like maybe a 
+
+468
+00:25:34,909 --> 00:25:36,950
+nice blackand white can do  it just like 
+
+469
+00:25:36,950 --> 00:25:37,460
+that 
+
+470
+00:25:37,460 --> 00:25:40,429
+I'll ply it save that photo away we also 
+
+471
+00:25:40,429 --> 00:25:42,230
+have great new waysto share your  photos 
+
+472
+00:25:42,230 --> 00:25:43,730
+in the photos apps let's bring up
+
+473
+00:25:43,730 --> 00:25:47,090
+sharing we have a airdrop right here if
+
+474
+00:25:47,090 --> 00:25:48,769
+any of you were runningiOS 7 I'd see 
+
+475
+00:25:48,769 --> 00:25:50,059
+you it looks like it didn't leak so 
+
+476
+00:25:50,059 --> 00:25:51,649
+that's good you're not in there right 
+
+477
+00:25:51,649 --> 00:25:53,840
+now  but you have airdrop you have  access 
+
+478
+00:25:53,840 --> 00:25:55,789
+to other photos you can share them from 
+
+479
+00:25:55,789 --> 00:25:56,600
+right here
+
+480
+00:25:56,600 --> 00:25:59,269
+just really handy great photo sharing 
+
+481
+00:25:59,269 --> 00:26:01,010
+option is iCloud photo sharing I'm going
+
+482
+00:26:01,010 --> 00:26:02,899
+to tap onthat now it's going to iCloud 
+
+483
+00:26:02,899 --> 00:26:05,600
+photo sharing and from here I can select 
+
+484
+00:26:05,600 --> 00:26:07,370
+the photo streams that I want to share - 
+
+485
+00:26:07,370 --> 00:26:09,529
+so I'm on Family Photos  now but I'm 
+
+486
+00:26:09,529 --> 00:26:11,480
+goingto drill in and I can see other 
+
+487
+00:26:11,480 --> 00:26:14,240
+photo streams I've set up and now other 
+
+488
+00:26:14,240 --> 00:26:17,029
+peoplecan share into my photo stream as 
+
+489
+00:26:17,029 --> 00:26:20,620
+well so these are shared photo streams 
+
+490
+00:26:23,310 --> 00:26:26,680
+I'll just select a photo stream here and 
+
+491
+00:26:26,680 --> 00:26:31,210
+type a little message we'll post that 
+
+492
+00:26:31,210 --> 00:26:33,160
+photoso we've  made it really easy  to 
+
+493
+00:26:33,160 --> 00:26:35,020
+share and we've also made it a really 
+
+494
+00:26:35,020 --> 00:26:37,000
+great experience to experience  the 
+
+495
+00:26:37,000 --> 00:26:38,500
+photos you and others have shared with 
+
+496
+00:26:38,500 --> 00:26:40,150
+this new shared tab at the bottom so I'm 
+
+497
+00:26:40,150 --> 00:26:42,670
+going togo in  here see my photo with a 
+
+498
+00:26:42,670 --> 00:26:44,800
+commentI can see the  comments of other 
+
+499
+00:26:44,800 --> 00:26:46,630
+people and the photos that they've 
+
+500
+00:26:46,630 --> 00:26:49,660
+shared and now we even support sharing 
+
+501
+00:26:49,660 --> 00:26:55,840
+video via iCloud photo sharing and we 
+
+502
+00:26:55,840 --> 00:26:57,820
+have a great way to just browse those
+
+503
+00:26:57,820 --> 00:26:59,380
+shared photos I just tilt the device 
+
+504
+00:26:59,380 --> 00:27:01,840
+into landscape I can scroll through  it 
+
+505
+00:27:01,840 --> 00:27:04,660
+like this and just look at how beautiful 
+
+506
+00:27:04,660 --> 00:27:04,990
+that is
+
+507
+00:27:04,990 --> 00:27:07,120
+what a great way to experience your 
+
+508
+00:27:07,120 --> 00:27:09,580
+photos so that's the new Photos app in 
+
+509
+00:27:09,580 --> 00:27:13,080
+iOS 7 
+
+510
+00:27:18,889 --> 00:27:21,779
+so integration with Internet services is 
+
+511
+00:27:21,779 --> 00:27:25,019
+a huge part of the experienceof iOS  and 
+
+512
+00:27:25,019 --> 00:27:28,710
+never more so than an iOS 7 so to  take 
+
+513
+00:27:28,710 --> 00:27:30,330
+you through some of those features I'd 
+
+514
+00:27:30,330 --> 00:27:34,909
+liketo  bring up Eddy Cue Eddy 
+
+515
+00:27:35,690 --> 00:27:40,200
+great job Craig thank you thanks it's 
+
+516
+00:27:40,200 --> 00:27:42,119
+greatto be here  so let's talk about 
+
+517
+00:27:42,119 --> 00:27:44,909
+Sirithe first thing is Siri has a 
+
+518
+00:27:44,909 --> 00:27:48,720
+gorgeous new interface now as I speak 
+
+519
+00:27:48,720 --> 00:27:51,149
+you'll see  a sound wave across the 
+
+520
+00:27:51,149 --> 00:27:53,909
+bottom  and you get the results in a 
+
+521
+00:27:53,909 --> 00:27:57,299
+beautiful gorgeous clean way but Siri 
+
+522
+00:27:57,299 --> 00:27:59,729
+has always been a lot about your the 
+
+523
+00:27:59,729 --> 00:28:01,859
+voice of Siriand we've got an all-new 
+
+524
+00:28:01,859 --> 00:28:05,489
+voice hiwhat can I do for you  and you 
+
+525
+00:28:05,489 --> 00:28:08,729
+can also choose a male voice hi Eddie
+
+526
+00:28:08,729 --> 00:28:11,519
+what can I do for you and we've got high 
+
+527
+00:28:11,519 --> 00:28:14,940
+quality thank you we've also got high 
+
+528
+00:28:14,940 --> 00:28:18,149
+qualityfemale and male voices for 
+
+529
+00:28:18,149 --> 00:28:22,080
+FrenchOh what  these we keep eat as  well 
+
+530
+00:28:22,080 --> 00:28:24,690
+as German  musk honey 32 nettie and we're 
+
+531
+00:28:24,690 --> 00:28:26,220
+gonna be addingother languages over 
+
+532
+00:28:26,220 --> 00:28:28,320
+time now Siri is also getting a lot 
+
+533
+00:28:28,320 --> 00:28:31,109
+smarter  it knows how to control more of 
+
+534
+00:28:31,109 --> 00:28:31,979
+your device 
+
+535
+00:28:31,979 --> 00:28:34,169
+so you could say play my lastvoice mail 
+
+536
+00:28:34,169 --> 00:28:38,399
+or turn on Bluetooth or increase my 
+
+537
+00:28:38,399 --> 00:28:40,700
+brightness
+
+538
+00:28:45,440 --> 00:28:48,310
+and it can answer a lot more questions 
+
+539
+00:28:48,310 --> 00:28:50,630
+because we've integrated some new 
+
+540
+00:28:50,630 --> 00:28:53,990
+serviceslike Twitter  so you can see 
+
+541
+00:28:53,990 --> 00:28:55,220
+what people are saying or what's 
+
+542
+00:28:55,220 --> 00:28:58,100
+happening we've integrated the world's 
+
+543
+00:28:58,100 --> 00:29:00,680
+largestencyclopedia  in Wikipedia and 
+
+544
+00:29:00,680 --> 00:29:04,430
+we've even integrated web search results 
+
+545
+00:29:04,430 --> 00:29:07,850
+fromBing  right inside of Siri and it's 
+
+546
+00:29:07,850 --> 00:29:11,810
+great forphotos  too and that's some of 
+
+547
+00:29:11,810 --> 00:29:15,860
+the new features of Siri in iOS 7 now 
+
+548
+00:29:15,860 --> 00:29:18,140
+Siri is also a big part of our next 
+
+549
+00:29:18,140 --> 00:29:29,450
+feature iOS in the car now 95%  of the 
+
+550
+00:29:29,450 --> 00:29:32,000
+cars being sold today have integrated 
+
+551
+00:29:32,000 --> 00:29:34,280
+musicplayback and control  from an iOS 
+
+552
+00:29:34,280 --> 00:29:36,500
+device but we want to take this 
+
+553
+00:29:36,500 --> 00:29:40,580
+integration to a whole nother level what 
+
+554
+00:29:40,580 --> 00:29:44,180
+if you could get iOS on the screen that 
+
+555
+00:29:44,180 --> 00:29:46,730
+is  built into your car so that  you can 
+
+556
+00:29:46,730 --> 00:29:49,960
+make phone calls play music go to maps 
+
+557
+00:29:49,960 --> 00:29:52,790
+get yourAI messages  right on the screen 
+
+558
+00:29:52,790 --> 00:29:57,080
+in your car or eyes free using Siri so 
+
+559
+00:29:57,080 --> 00:29:59,570
+now when you make a phone call it's 
+
+560
+00:29:59,570 --> 00:30:01,100
+going  to look something like this call 
+
+561
+00:30:01,100 --> 00:30:10,100
+John Appleseed or play get lucky or go 
+
+562
+00:30:10,100 --> 00:30:15,920
+to maps get directions or even get your 
+
+563
+00:30:15,920 --> 00:30:17,900
+AI messages read to you and you can 
+
+564
+00:30:17,900 --> 00:30:22,540
+dictate a response all eyes free 
+
+565
+00:30:26,899 --> 00:30:30,390
+now all these car manufacturers are 
+
+566
+00:30:30,390 --> 00:30:33,600
+introducing iOSintegration in 2014  and 
+
+567
+00:30:33,600 --> 00:30:38,000
+I know which one I wantto buy and 
+
+568
+00:30:38,000 --> 00:30:42,980
+that's iOS inthe car  next the App Store 
+
+569
+00:30:42,980 --> 00:30:46,559
+now the App Store looks beautiful  it's 
+
+570
+00:30:46,559 --> 00:30:49,080
+way easier to find apps  than ever before 
+
+571
+00:30:49,080 --> 00:30:51,960
+we've added a  new feature where you can 
+
+572
+00:30:51,960 --> 00:30:53,880
+look for apps based on your age range 
+
+573
+00:30:53,880 --> 00:30:56,279
+kids categories parents are goingto 
+
+574
+00:30:56,279 --> 00:31:00,659
+love  this and apps near me you can find 
+
+575
+00:31:00,659 --> 00:31:03,090
+the most popular apps based on your 
+
+576
+00:31:03,090 --> 00:31:06,390
+currentlocation so now let's say I'm at 
+
+577
+00:31:06,390 --> 00:31:09,419
+AT&TPark in  San Francisco and here are 
+
+578
+00:31:09,419 --> 00:31:12,210
+the apps I would see or I'm at the
+
+579
+00:31:12,210 --> 00:31:15,929
+Louvre in Parisor I'm in  Union Square 
+
+580
+00:31:15,929 --> 00:31:18,990
+shopping it's that easy to discover new
+
+581
+00:31:18,990 --> 00:31:21,990
+apps it's really great now the next 
+
+582
+00:31:21,990 --> 00:31:23,539
+feature I know you're all going to love 
+
+583
+00:31:23,539 --> 00:31:26,460
+because every day you see something like 
+
+584
+00:31:26,460 --> 00:31:32,190
+this well no more because the App Store 
+
+585
+00:31:32,190 --> 00:31:36,049
+updates your apps automatically 
+
+586
+00:31:44,760 --> 00:31:48,100
+next let's talk about music  the music 
+
+587
+00:31:48,100 --> 00:31:51,790
+app in iOS 7is beyond a doubt  the best 
+
+588
+00:31:51,790 --> 00:31:54,970
+music player we have ever done the first 
+
+589
+00:31:54,970 --> 00:31:56,380
+thing you'll notice is we provide you 
+
+590
+00:31:56,380 --> 00:31:59,230
+with beautiful artist images right in 
+
+591
+00:31:59,230 --> 00:32:02,230
+your library you just tap an artist and 
+
+592
+00:32:02,230 --> 00:32:04,030
+you see the songs but it's not just the
+
+593
+00:32:04,030 --> 00:32:06,400
+songs on your device you see all of your 
+
+594
+00:32:06,400 --> 00:32:08,860
+purchase music from iCloud right in  your 
+
+595
+00:32:08,860 --> 00:32:11,890
+library and if you want to hear one of 
+
+596
+00:32:11,890 --> 00:32:14,050
+the songs you just tap and you get our 
+
+597
+00:32:14,050 --> 00:32:16,450
+beautiful now playing screen but it's 
+
+598
+00:32:16,450 --> 00:32:18,100
+not just your purchase music in the 
+
+599
+00:32:18,100 --> 00:32:20,440
+video apps you get all of your movies 
+
+600
+00:32:20,440 --> 00:32:25,300
+and TV shows right for my cloud right in 
+
+601
+00:32:25,300 --> 00:32:29,070
+your library it's really really great 
+
+602
+00:32:33,850 --> 00:32:36,549
+turn the  device sideways you see your 
+
+603
+00:32:36,549 --> 00:32:38,889
+albums you can just swipe to see more 
+
+604
+00:32:38,889 --> 00:32:42,429
+and once you seewhen you like  you tap 
+
+605
+00:32:42,429 --> 00:32:45,729
+and zooms right in now the music app is 
+
+606
+00:32:45,729 --> 00:32:48,820
+the best way to listen to your music but 
+
+607
+00:32:48,820 --> 00:32:51,249
+today we're introducing an amazing way 
+
+608
+00:32:51,249 --> 00:32:53,970
+to discover new music and we call it 
+
+609
+00:32:53,970 --> 00:32:57,239
+iTunes  radio 
+
+610
+00:33:02,670 --> 00:33:05,010
+and here's what it looks like it's built
+
+611
+00:33:05,010 --> 00:33:07,260
+right into the music app but rather than
+
+612
+00:33:07,260 --> 00:33:09,120
+tell you about it I'd love to show it  to 
+
+613
+00:33:09,120 --> 00:33:19,370
+you and we'll launch the music app and 
+
+614
+00:33:19,370 --> 00:33:21,570
+the first thing you'll notice is we've 
+
+615
+00:33:21,570 --> 00:33:23,460
+got a setof featured stations that our 
+
+616
+00:33:23,460 --> 00:33:25,290
+programming team have createdso you can 
+
+617
+00:33:25,290 --> 00:33:27,210
+see the songs that are trending on 
+
+618
+00:33:27,210 --> 00:33:29,820
+Twitter rightnow  or even the songs that 
+
+619
+00:33:29,820 --> 00:33:31,290
+you guys are all going to hear this week 
+
+620
+00:33:31,290 --> 00:33:38,669
+at WWDC but I feel like summer songs so 
+
+621
+00:33:38,669 --> 00:33:54,480
+you just tap and once you have a station 
+
+622
+00:33:54,480 --> 00:33:57,299
+you love you can just tap the I and you 
+
+623
+00:33:57,299 --> 00:33:58,740
+could share  it with a friend or even 
+
+624
+00:33:58,740 --> 00:34:00,419
+create a new station  based on this 
+
+625
+00:34:00,419 --> 00:34:04,830
+artist or song I can easily skip to the 
+
+626
+00:34:04,830 --> 00:34:07,669
+sea what's the  next song 
+
+627
+00:34:16,639 --> 00:34:19,079
+I'll go back to stations but it's not 
+
+628
+00:34:19,079 --> 00:34:20,549
+just the featured stations that we 
+
+629
+00:34:20,549 --> 00:34:22,109
+provideyou can create  your own stations 
+
+630
+00:34:22,109 --> 00:34:23,219
+here are some  that I've previously 
+
+631
+00:34:23,219 --> 00:34:27,359
+created but I feel like doing something 
+
+632
+00:34:27,359 --> 00:34:31,319
+new now  our music team is providing you 
+
+633
+00:34:31,319 --> 00:34:32,969
+with hundreds of stations based on 
+
+634
+00:34:32,969 --> 00:34:37,168
+alternative country classic rock but I 
+
+635
+00:34:37,168 --> 00:34:38,339
+feel like doing something a little more 
+
+636
+00:34:38,339 --> 00:34:48,289
+specific how about some Led Zeppelin 
+
+637
+00:35:04,810 --> 00:35:07,190
+so it starts off witha great Led 
+
+638
+00:35:07,190 --> 00:35:10,490
+Zeppelinsong let's go ahead  and see 
+
+639
+00:35:10,490 --> 00:35:16,130
+what else is on this station and a great 
+
+640
+00:35:16,130 --> 00:35:17,900
+thing is I can always modify the station 
+
+641
+00:35:17,900 --> 00:35:19,760
+I can just tap the star and I can say 
+
+642
+00:35:19,760 --> 00:35:22,339
+play more songs like this or never play 
+
+643
+00:35:22,339 --> 00:35:24,800
+this song or add it to my wish  list now 
+
+644
+00:35:24,800 --> 00:35:26,150
+I like this so let's play some more
+
+645
+00:35:26,150 --> 00:35:29,930
+songs like this now another great 
+
+646
+00:35:29,930 --> 00:35:31,670
+feature of iTunes radio is it keeps 
+
+647
+00:35:31,670 --> 00:35:33,290
+track of all the songs that you're 
+
+648
+00:35:33,290 --> 00:35:35,599
+listeningto across all the stations all 
+
+649
+00:35:35,599 --> 00:35:37,400
+your devicesand you can  get to them by 
+
+650
+00:35:37,400 --> 00:35:40,070
+just tapping history you can see them 
+
+651
+00:35:40,070 --> 00:35:41,810
+allhere you can preview and buy right 
+
+652
+00:35:41,810 --> 00:35:46,720
+from there  and that's iTunes radio 
+
+653
+00:35:53,480 --> 00:35:56,810
+so iTunes radiois built into iOS  7 it 
+
+654
+00:35:56,810 --> 00:35:59,150
+works on your iPhone your iPod Touch and 
+
+655
+00:35:59,150 --> 00:36:03,079
+your iPad it's also built into iTunes on 
+
+656
+00:36:03,079 --> 00:36:06,440
+your Mac and PC and evenin  your living 
+
+657
+00:36:06,440 --> 00:36:14,690
+room builtinto Apple TV iTunes  radio is 
+
+658
+00:36:14,690 --> 00:36:17,869
+free with ads and if you're an iTunes 
+
+659
+00:36:17,869 --> 00:36:22,240
+Match subscriber it's completely ad free
+
+660
+00:36:26,170 --> 00:36:28,869
+we're starting in the US and we'll be 
+
+661
+00:36:28,869 --> 00:36:30,670
+addingother countries over time and 
+
+662
+00:36:30,670 --> 00:36:35,170
+that's the new music app on iOS 7 it  is 
+
+663
+00:36:35,170 --> 00:36:37,329
+the best music player we have ever done 
+
+664
+00:36:37,329 --> 00:36:40,140
+thank you 
+
+665
+00:36:44,810 --> 00:36:50,990
+Thank You Eddie so 10  amazing features 
+
+666
+00:36:50,990 --> 00:36:54,430
+in iOS7 and a  comprehensive end-to-end 
+
+667
+00:36:54,430 --> 00:36:59,030
+UI redesign and of course we're bringing 
+
+668
+00:36:59,030 --> 00:37:03,530
+it all to iPad as well  now there's more 
+
+669
+00:37:03,530 --> 00:37:06,380
+to iOS 7 than we had time  to talk to you 
+
+670
+00:37:06,380 --> 00:37:07,700
+about in depth here today
+
+671
+00:37:07,700 --> 00:37:11,060
+things like FaceTime audiowhere you now 
+
+672
+00:37:11,060 --> 00:37:13,220
+can doaudio only  high quality audio 
+
+673
+00:37:13,220 --> 00:37:18,190
+calls over Wi-Fi on any iOS device
+
+674
+00:37:19,900 --> 00:37:22,640
+notification sync so if you dismiss a 
+
+675
+00:37:22,640 --> 00:37:23,810
+notification on one device you don't 
+
+676
+00:37:23,810 --> 00:37:25,100
+have to deal with it over and over  again 
+
+677
+00:37:25,100 --> 00:37:29,660
+on your other devices great feature for 
+
+678
+00:37:29,660 --> 00:37:31,790
+our users in China with integration of 
+
+679
+00:37:31,790 --> 00:37:33,860
+the popular microblogging website site
+
+680
+00:37:33,860 --> 00:37:37,220
+Tencent Weibo and for those of you who 
+
+681
+00:37:37,220 --> 00:37:38,780
+have peoplewho  just won't let go 
+
+682
+00:37:38,780 --> 00:37:42,770
+phone FaceTime and message blocking also 
+
+683
+00:37:42,770 --> 00:37:46,190
+for our enterprisefee  customers per app 
+
+684
+00:37:46,190 --> 00:37:50,390
+VPNnow there's yeah a couple enterprise 
+
+685
+00:37:50,390 --> 00:37:53,030
+people in the audience alright so in 
+
+686
+00:37:53,030 --> 00:37:54,380
+addition to all this there's one feature 
+
+687
+00:37:54,380 --> 00:37:55,550
+I want to talk about in a little bit 
+
+688
+00:37:55,550 --> 00:37:59,590
+more detail which is activation  lock so 
+
+689
+00:37:59,590 --> 00:38:02,870
+hundreds of millions of us use Find My 
+
+690
+00:38:02,870 --> 00:38:05,570
+iPhone to find our phone when it's just 
+
+691
+00:38:05,570 --> 00:38:07,460
+lost inthe couch or maybe left at 
+
+692
+00:38:07,460 --> 00:38:09,890
+Starbucksbut also when it's been stolen 
+
+693
+00:38:09,890 --> 00:38:14,150
+and now with  activation lock if a thief 
+
+694
+00:38:14,150 --> 00:38:17,990
+tries to turn off Find My iPhoneor if 
+
+695
+00:38:17,990 --> 00:38:20,810
+theyeven wipe the device  entirely they 
+
+696
+00:38:20,810 --> 00:38:23,030
+will not be able to reactivate it 
+
+697
+00:38:23,030 --> 00:38:25,310
+because they don't know your iCloud 
+
+698
+00:38:25,310 --> 00:38:27,820
+username
+
+699
+00:38:35,850 --> 00:38:37,470
+we think this is going to be a really 
+
+700
+00:38:37,470 --> 00:38:39,750
+powerful  theft deterrent now of course 
+
+701
+00:38:39,750 --> 00:38:42,000
+in addition to being a great release for 
+
+702
+00:38:42,000 --> 00:38:43,200
+our users 
+
+703
+00:38:43,200 --> 00:38:45,630
+iOS 7is also fantastic and major 
+
+704
+00:38:45,630 --> 00:38:48,210
+release forour developers as well the 
+
+705
+00:38:48,210 --> 00:38:52,890
+SDK includes over 1,500 new api's can 
+
+706
+00:38:52,890 --> 00:38:54,960
+add airdrop integrate with third-party
+
+707
+00:38:54,960 --> 00:38:57,840
+game controllers new api's for  taking 
+
+708
+00:38:57,840 --> 00:39:00,990
+advantage of multitasking ibeacons  for 
+
+709
+00:39:00,990 --> 00:39:04,980
+Bluetooth le micro location sprite kit 
+
+710
+00:39:04,980 --> 00:39:07,320
+for super fast power efficient game 
+
+711
+00:39:07,320 --> 00:39:10,560
+animations and you ident to bring 
+
+712
+00:39:10,560 --> 00:39:17,780
+physics to your UI view animations so I 
+
+713
+00:39:22,010 --> 00:39:26,010
+so iOS 7 isavailable to you developers 
+
+714
+00:39:26,010 --> 00:39:30,290
+in beta on the iPhone today 
+
+715
+00:39:36,040 --> 00:39:39,590
+we'll have betasfor iPad coming up in 
+
+716
+00:39:39,590 --> 00:39:41,900
+the near for the coming weeks and for 
+
+717
+00:39:41,900 --> 00:39:44,450
+everyone elsea final release  coming 
+
+718
+00:39:44,450 --> 00:39:48,140
+this fall so i io s 7 will  be available 
+
+719
+00:39:48,140 --> 00:39:51,260
+foriphone 4 and later ipad 2 and later 
+
+720
+00:39:51,260 --> 00:39:53,900
+the iPad Mini and the fifth-generation 
+
+721
+00:39:53,900 --> 00:39:58,850
+iPod touch that is iOS 7 I hope you love 
+
+722
+00:39:58,850 --> 00:00:00,000
+it 
+
